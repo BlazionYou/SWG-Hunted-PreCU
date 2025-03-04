@@ -1,4 +1,4 @@
-frsEnabled = 1
+frsEnabled = 0
 
 -- Object ID of Enclave buildings
 lightEnclaveID = 8525417
@@ -9,18 +9,20 @@ darkEnclaveID = 3435626
 --acceptanceInterval = 604800000 -- 7 days
 --maintenanceInterval = 604800000 -- 7 days
 
-petitionInterval = 1200000 -- 7 days
-votingInterval = 1200000 -- 7 days
-acceptanceInterval = 1200000 -- 7 days
-maintenanceInterval = 1200000 -- 7 days
+--Petition & Voting
+petitionInterval = 86400000 (1 day)
+votingInterval = 86400000 (1 day)
+acceptanceInterval = 86400000 (1 day)
+maintenanceInterval = 86400000 (1 day)
+--Demotion & Challenge Durations
+requestDemotionDuration = 259200000 (3 days)
+voteChallengeDuration = 259200000 (3 days)
+-- Arena Timers
+arenaOpenInterval = 3600000 (60 minutes)
+arenaClosedInterval = 43200000 (12 hours)
+arenaChallengeDuration = 1800000 (30 minutes)
+arenaChallengeCooldown = 43200000 (12 hours)
 
-requestDemotionDuration = 604800000 -- 7 days
-voteChallengeDuration = 604800000 -- 7 days
-
-arenaOpenInterval = 5400000 -- 90 mins
-arenaClosedInterval = 108000000 -- 30 hours
-arenaChallengeDuration = 3600000 -- 60 mins
-arenaChallengeCooldown = 90000000 -- 25 hours
 
 -- Costs are in FRS experience
 baseMaintCost = 100

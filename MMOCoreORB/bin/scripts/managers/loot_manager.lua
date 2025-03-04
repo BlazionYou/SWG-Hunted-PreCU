@@ -41,18 +41,18 @@
 --which carries forward this exception.
 
 --Chance divisor for attribute bonus modifiers
-levelChance = 100
+levelChance = 150
 
 --Chance dividend for attribute bonus modifiers
 baseChance = 100
-yellowChance = 1000
-exceptionalChance = 100000
-legendaryChance = 1000000
+yellowChance = 25
+exceptionalChance = 75
+legendaryChance = 150
 
 --Multiplier values for bonus modifiers
 baseModifier = 1
-yellowModifier = 2
-exceptionalModifier = 8
+yellowModifier = 5
+exceptionalModifier = 9
 legendaryModifier = 9
 
 --The chance for random skill mods to be on looted weapons/wearables

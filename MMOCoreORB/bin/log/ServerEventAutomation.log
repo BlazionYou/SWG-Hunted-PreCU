@@ -882,3 +882,295 @@ Sun Mar  2 16:30:16 2025 [ServerEventAutomation] playerEvent Madrox (account_id:
 Sun Mar  2 16:30:26 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 11h 59m 59s, session: 40m 56s) on yavin4 at 5115 319 - playerLoggedOut
 Sun Mar  2 16:30:34 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 3h 41m 6s, session: 40m 24s) on corellia at -91 -5710 - playerLoggedOut
 Sun Mar  2 16:34:10 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 3h 41m 6s, session: 0s) on corellia at -91 -5710 - playerLoggedOut
+Mon Mar  3 17:28:24 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 22h 17m 53s, session: 0s) on yavin4 at 5016 308 - playerLoggedIn
+Mon Mar  3 17:28:29 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 1h 23m 22s, session: 0s) on dathomir at -67 -1596 - playerLoggedOut
+Mon Mar  3 17:28:29 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 1h 23m 23s, session: 0s) on dathomir at -67 -1596 - playerLoggedIn
+Mon Mar  3 17:28:46 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 5h 31m 5s, session: 0s) on dathomir at -63 -1597 - playerLoggedIn
+Mon Mar  3 17:29:59 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 13m 0s, session: 0s) on tatooine at -2919 2127 - playerLoggedIn
+Mon Mar  3 17:30:30 2025 [ServerEventAutomation] playerEvent Nayx (account_id: 63, oid: 281475011612466, played: 1s, session: 0s) on tutorial at 3443 -135 - playerLoggedIn
+Mon Mar  3 17:31:34 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 22h 21m 4s, session: 3m 10s) on yavin4 at 5024 327 - playerLoggedOut
+Mon Mar  3 17:31:35 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 1h 26m 28s, session: 3m 5s) on dathomir at -67 -1594 - playerLoggedOut
+Mon Mar  3 17:31:41 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 5h 34m 0s, session: 2m 55s) on dathomir at -138 -1617 - playerLoggedOut
+Mon Mar  3 17:34:18 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 17m 17s, session: 4m 17s) on tatooine at -2867 2116 - playerLoggedOut
+Mon Mar  3 17:35:52 2025 [ServerEventAutomation] playerEvent Nayx (account_id: 63, oid: 281475011612466, played: 5m 23s, session: 5m 22s) on tutorial at 3443 -135 - playerLoggedOut
+Mon Mar  3 17:39:03 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 17m 17s, session: 0s) on tatooine at -2867 2116 - playerLoggedOut
+Mon Mar  3 17:40:41 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 22h 21m 5s, session: 0s) on yavin4 at 5024 327 - playerLoggedIn
+Mon Mar  3 17:40:41 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 1h 26m 29s, session: 0s) on dathomir at -67 -1594 - playerLoggedIn
+Mon Mar  3 17:41:59 2025 [ServerEventAutomation] playerEvent Nayx (account_id: 63, oid: 281475011612466, played: 5m 24s, session: 0s) on tutorial at 3443 -135 - playerLoggedIn
+Mon Mar  3 17:44:05 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 21h 33m 37s, session: 0s) on naboo at 4842 6044 - playerLoggedIn
+Mon Mar  3 17:46:19 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 17m 18s, session: 0s) on tatooine at -2867 2116 - playerLoggedIn
+Mon Mar  3 17:49:28 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 5h 34m 1s, session: 0s) on dathomir at -138 -1617 - playerLoggedIn
+Mon Mar  3 18:18:13 2025 [ServerEventAutomation] playerEvent Nayx (account_id: 63, oid: 281475011612466, played: 41m 33s, session: 36m 9s) on tatooine at -1214 -3563 - playerLoggedOut
+Mon Mar  3 18:18:14 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 3m 56s, session: 37m 27s) on yavin4 at 5014 313 - playerLoggedOut
+Mon Mar  3 18:19:07 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 50m 1s, session: 32m 42s) on dathomir at -3913 86 - playerLoggedOut
+Mon Mar  3 18:19:07 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 3m 38s, session: 29m 37s) on dathomir at -3913 88 - playerLoggedOut
+Mon Mar  3 18:19:17 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 22h 59m 40s, session: 38m 35s) on yavin4 at 5017 312 - playerLoggedOut
+Mon Mar  3 18:19:24 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 8m 56s, session: 35m 19s) on naboo at 4870 6063 - playerLoggedOut
+Mon Mar  3 18:22:21 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 22h 59m 40s, session: 0s) on yavin4 at 5017 312 - playerLoggedOut
+Mon Mar  3 18:22:21 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 3m 56s, session: 0s) on yavin4 at 5014 313 - playerLoggedOut
+Mon Mar  3 18:22:25 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 8m 53s, session: 0s) on naboo at 4870 6063 - playerLoggedOut
+Mon Mar  3 18:23:56 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 22h 59m 41s, session: 0s) on yavin4 at 5017 312 - playerLoggedIn
+Mon Mar  3 18:23:58 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 50m 2s, session: 0s) on dathomir at -4043 -32 - playerLoggedIn
+Mon Mar  3 18:23:58 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 3m 57s, session: 0s) on yavin4 at 5014 313 - playerLoggedIn
+Mon Mar  3 18:24:28 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 3m 39s, session: 0s) on dathomir at -4043 -32 - playerLoggedIn
+Mon Mar  3 18:27:45 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 3m 30s, session: 3m 49s) on yavin4 at 5016 313 - playerLoggedOut
+Mon Mar  3 18:27:46 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 7m 45s, session: 3m 48s) on yavin4 at 5014 314 - playerLoggedOut
+Mon Mar  3 18:27:48 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 53m 51s, session: 3m 49s) on yavin4 at 5015 312 - playerLoggedOut
+Mon Mar  3 18:28:26 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 7m 37s, session: 3m 57s) on dathomir at -3886 89 - playerLoggedOut
+Mon Mar  3 18:29:13 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 22h 59m 40s, session: 0s) on yavin4 at 5017 312 - playerLoggedOut
+Mon Mar  3 18:29:13 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 3m 56s, session: 0s) on yavin4 at 5014 313 - playerLoggedOut
+Mon Mar  3 18:29:17 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 8m 53s, session: 0s) on naboo at 4870 6063 - playerLoggedOut
+Mon Mar  3 18:30:55 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 22h 59m 41s, session: 0s) on yavin4 at 5017 312 - playerLoggedIn
+Mon Mar  3 18:31:17 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 0m 4s, session: 23s) on yavin4 at 5016 312 - playerLoggedOut
+Mon Mar  3 18:31:38 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 50m 2s, session: 0s) on dathomir at -4043 -32 - playerLoggedIn
+Mon Mar  3 18:32:26 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 3m 57s, session: 0s) on yavin4 at 5014 313 - playerLoggedIn
+Mon Mar  3 18:33:38 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 5m 8s, session: 1m 11s) on yavin4 at 5014 314 - playerLoggedOut
+Mon Mar  3 18:34:26 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 52m 49s, session: 2m 47s) on yavin4 at 5015 311 - playerLoggedOut
+Mon Mar  3 18:35:03 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 22h 59m 40s, session: 0s) on yavin4 at 5017 312 - playerLoggedOut
+Mon Mar  3 18:35:03 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 3m 56s, session: 0s) on yavin4 at 5014 313 - playerLoggedOut
+Mon Mar  3 18:35:08 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 8m 53s, session: 0s) on naboo at 4870 6063 - playerLoggedOut
+Mon Mar  3 18:36:37 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 22h 59m 41s, session: 0s) on yavin4 at 5017 312 - playerLoggedIn
+Mon Mar  3 18:36:40 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 3m 57s, session: 0s) on yavin4 at 5014 313 - playerLoggedIn
+Mon Mar  3 18:37:48 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 50m 2s, session: 0s) on dathomir at -4043 -32 - playerLoggedIn
+Mon Mar  3 18:44:45 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 56m 57s, session: 6m 55s) on dathomir at -4043 -32 - playerLoggedOut
+Mon Mar  3 18:47:56 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 15m 13s, session: 11m 15s) on yavin4 at 5015 313 - playerLoggedOut
+Mon Mar  3 18:47:58 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 11m 2s, session: 11m 21s) on yavin4 at 5015 311 - playerLoggedOut
+Mon Mar  3 18:50:42 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 11m 2s, session: 0s) on yavin4 at 5015 311 - playerLoggedOut
+Mon Mar  3 18:50:42 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 15m 13s, session: 0s) on yavin4 at 5015 313 - playerLoggedOut
+Mon Mar  3 18:51:55 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 11m 2s, session: 0s) on yavin4 at 5015 311 - playerLoggedOut
+Mon Mar  3 18:51:55 2025 [ServerEventAutomation] playerEvent Xartoo (account_id: 47, oid: 281475011248105, played: 2h 15m 13s, session: 0s) on yavin4 at 5015 313 - playerLoggedOut
+Mon Mar  3 18:53:29 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 11m 3s, session: 0s) on yavin4 at 5015 311 - playerLoggedIn
+Mon Mar  3 18:53:47 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 3m 39s, session: 0s) on dathomir at -4043 -32 - playerLoggedIn
+Mon Mar  3 18:55:07 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 14h 56m 58s, session: 0s) on dathomir at -4043 -32 - playerLoggedIn
+Mon Mar  3 18:57:31 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 15m 5s, session: 4m 2s) on yavin4 at 5015 312 - playerLoggedOut
+Mon Mar  3 18:57:34 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 8m 54s, session: 0s) on naboo at 4870 6063 - playerLoggedIn
+Mon Mar  3 18:59:35 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 9m 26s, session: 5m 46s) on dathomir at -3947 92 - playerLoggedOut
+Mon Mar  3 18:59:38 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 9m 27s, session: 0s) on dathomir at -3947 92 - playerLoggedIn
+Mon Mar  3 19:00:06 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 9m 54s, session: 27s) on dathomir at -3947 92 - playerLoggedOut
+Mon Mar  3 19:00:09 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 9m 55s, session: 0s) on dathomir at -3947 92 - playerLoggedIn
+Mon Mar  3 19:00:50 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 10m 35s, session: 40s) on dathomir at -3947 92 - playerLoggedOut
+Mon Mar  3 19:00:56 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 10m 36s, session: 0s) on dathomir at -3947 92 - playerLoggedIn
+Mon Mar  3 19:02:12 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 11m 52s, session: 1m 16s) on dathomir at -3947 92 - playerLoggedOut
+Mon Mar  3 19:02:15 2025 [ServerEventAutomation] playerEvent Rick (account_id: 62, oid: 281475011206826, played: 1h 59m 34s, session: 0s) on tatooine at 6179 3600 - playerLoggedIn
+Mon Mar  3 19:02:37 2025 [ServerEventAutomation] playerEvent Rick (account_id: 62, oid: 281475011206826, played: 1h 59m 55s, session: 21s) on tatooine at 6183 3599 - playerLoggedOut
+Mon Mar  3 19:02:40 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 11m 53s, session: 0s) on dathomir at -3947 92 - playerLoggedIn
+Mon Mar  3 19:07:25 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 8m 17s, session: 0s) on dathomir at -3901 124 - playerLoggedOut
+Mon Mar  3 19:07:28 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 15m 5s, session: 0s) on yavin4 at 5015 312 - playerLoggedOut
+Mon Mar  3 19:14:56 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 8m 18s, session: 0s) on dathomir at -4043 -32 - playerLoggedIn
+Mon Mar  3 19:16:57 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 9m 46s, session: 0s) on naboo at 4925 6117 - playerLoggedOut
+Mon Mar  3 19:16:57 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 9m 47s, session: 0s) on naboo at 4925 6117 - playerLoggedIn
+Mon Mar  3 19:17:23 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 15m 6s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Mon Mar  3 19:18:31 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 11m 52s, session: 3m 34s) on dathomir at -4042 -34 - playerLoggedOut
+Mon Mar  3 19:19:02 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 11m 53s, session: 0s) on dathomir at -4042 -34 - playerLoggedIn
+Mon Mar  3 19:27:07 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 15m 6s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Mon Mar  3 19:27:14 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 9m 46s, session: 0s) on naboo at 4925 6117 - playerLoggedOut
+Mon Mar  3 19:27:14 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 9m 47s, session: 0s) on naboo at 4925 6117 - playerLoggedIn
+Mon Mar  3 19:27:57 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 20h 22m 11s, session: 0s) on tatooine at 6177 3600 - playerLoggedIn
+Mon Mar  3 19:28:03 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 20h 22m 16s, session: 5s) on tatooine at 6177 3600 - playerLoggedOut
+Mon Mar  3 19:28:07 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 8m 18s, session: 0s) on dathomir at -4043 -32 - playerLoggedIn
+Mon Mar  3 19:28:19 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 16m 18s, session: 1m 12s) on yavin4 at 5015 312 - playerLoggedOut
+Mon Mar  3 19:28:22 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 16m 19s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Mon Mar  3 19:29:23 2025 [ServerEventAutomation] playerEvent Nayx (account_id: 63, oid: 281475011612466, played: 41m 33s, session: 0s) on tatooine at -1214 -3563 - playerLoggedOut
+Mon Mar  3 19:29:23 2025 [ServerEventAutomation] playerEvent Nayx (account_id: 63, oid: 281475011612466, played: 41m 34s, session: 0s) on tatooine at -1214 -3563 - playerLoggedIn
+Mon Mar  3 19:31:38 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 19m 36s, session: 3m 16s) on yavin4 at 5016 312 - playerLoggedOut
+Mon Mar  3 19:31:50 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 14m 22s, session: 4m 35s) on naboo at 4881 6003 - playerLoggedOut
+Mon Mar  3 19:32:02 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 12m 12s, session: 3m 54s) on dathomir at -3948 86 - playerLoggedOut
+Mon Mar  3 19:33:10 2025 [ServerEventAutomation] playerEvent Nayx (account_id: 63, oid: 281475011612466, played: 45m 21s, session: 3m 46s) on tatooine at -1272 -3587 - playerLoggedOut
+Mon Mar  3 20:28:44 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 19m 36s, session: 0s) on yavin4 at 5016 312 - playerLoggedOut
+Mon Mar  3 20:30:24 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 19m 37s, session: 0s) on yavin4 at 5016 312 - playerLoggedIn
+Mon Mar  3 20:34:13 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 12m 12s, session: 0s) on dathomir at -3948 86 - playerLoggedOut
+Mon Mar  3 20:34:13 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 6h 12m 13s, session: 0s) on dathomir at -3948 86 - playerLoggedIn
+Mon Mar  3 20:40:58 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 14m 22s, session: 0s) on naboo at 4881 6003 - playerLoggedOut
+Mon Mar  3 20:40:58 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 14m 23s, session: 0s) on naboo at 4881 6003 - playerLoggedIn
+Mon Mar  3 20:41:48 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 31m 0s, session: 11m 23s) on yavin4 at 5015 313 - playerLoggedOut
+Mon Mar  3 20:41:52 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 31m 1s, session: 0s) on yavin4 at 5015 313 - playerLoggedIn
+Mon Mar  3 20:50:22 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 15h 0m 15s, session: 0s) on dathomir at -4043 -32 - playerLoggedOut
+Mon Mar  3 20:50:22 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 15h 0m 16s, session: 0s) on dathomir at -4043 -32 - playerLoggedIn
+Mon Mar  3 20:54:45 2025 [ServerEventAutomation] playerEvent Diana (account_id: 46, oid: 281475004346318, played: 16h 34m 24s, session: 0s) on naboo at 4859 6101 - playerLoggedIn
+Mon Mar  3 20:56:05 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 29m 30s, session: 15m 6s) on naboo at 4961 5506 - playerLoggedOut
+Mon Mar  3 20:56:05 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 22h 29m 31s, session: 0s) on naboo at 4961 5506 - playerLoggedIn
+Mon Mar  3 20:56:14 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 45m 24s, session: 14m 22s) on yavin4 at 5014 313 - playerLoggedOut
+Mon Mar  3 20:56:27 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 23h 45m 25s, session: 0s) on yavin4 at 5014 313 - playerLoggedIn
+Mon Mar  3 21:01:05 2025 [ServerEventAutomation] playerEvent Diana (account_id: 46, oid: 281475004346318, played: 16h 40m 44s, session: 6m 19s) on naboo at 4961 5506 - playerLoggedOut
+Mon Mar  3 21:01:09 2025 [ServerEventAutomation] playerEvent wyatt (account_id: 46, oid: 281475004349354, played: 4h 58m 1s, session: 0s) on naboo at 4880 6066 - playerLoggedIn
+Mon Mar  3 21:07:34 2025 [ServerEventAutomation] playerEvent wyatt (account_id: 46, oid: 281475004349354, played: 5h 4m 24s, session: 6m 23s) on naboo at 4979 5457 - playerLoggedOut
+Mon Mar  3 21:07:36 2025 [ServerEventAutomation] playerEvent Diana (account_id: 46, oid: 281475004346318, played: 16h 40m 45s, session: 0s) on naboo at 4961 5506 - playerLoggedIn
+Mon Mar  3 21:09:12 2025 [ServerEventAutomation] playerEvent Diana (account_id: 46, oid: 281475004346318, played: 16h 42m 20s, session: 1m 35s) on naboo at 4962 5506 - playerLoggedOut
+Mon Mar  3 21:09:18 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 1d 4h 2m 36s, session: 0s) on naboo at 4875 6086 - playerLoggedIn
+Mon Mar  3 21:14:02 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 1d 4h 7m 19s, session: 4m 42s) on naboo at 4940 5469 - playerLoggedOut
+Mon Mar  3 21:30:41 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 15h 40m 33s, session: 40m 16s) on yavin4 at 5014 310 - playerLoggedOut
+Mon Mar  3 21:30:42 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 15h 40m 34s, session: 0s) on yavin4 at 5014 310 - playerLoggedIn
+Mon Mar  3 21:30:46 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 19m 44s, session: 34m 18s) on yavin4 at 5015 312 - playerLoggedOut
+Mon Mar  3 21:30:49 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 19m 45s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Mon Mar  3 21:38:36 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 27m 31s, session: 7m 46s) on yavin4 at 5015 312 - playerLoggedOut
+Mon Mar  3 21:38:39 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 27m 32s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Mon Mar  3 21:42:19 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 15h 52m 11s, session: 11m 36s) on yavin4 at 5014 310 - playerLoggedOut
+Mon Mar  3 21:42:31 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 31m 24s, session: 3m 51s) on yavin4 at 5016 312 - playerLoggedOut
+Mon Mar  3 21:43:18 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 16m 43s, session: 47m 12s) on naboo at 4866 6064 - playerLoggedOut
+Mon Mar  3 21:45:22 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 31m 25s, session: 0s) on yavin4 at 5016 312 - playerLoggedIn
+Mon Mar  3 21:49:39 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 35m 42s, session: 4m 17s) on yavin4 at 5015 312 - playerLoggedOut
+Mon Mar  3 21:53:17 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 35m 43s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Mon Mar  3 21:55:37 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 38m 3s, session: 2m 20s) on yavin4 at 5015 313 - playerLoggedOut
+Mon Mar  3 22:12:20 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 7h 50m 16s, session: 1h 38m 2s) on tatooine at 6182 3592 - playerLoggedOut
+Mon Mar  3 22:12:30 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 7h 49m 39s, session: 0s) on tatooine at 6396 3532 - playerLoggedIn
+Mon Mar  3 22:12:40 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 7h 49m 49s, session: 10s) on tatooine at 6396 3532 - playerLoggedOut
+Mon Mar  3 22:12:44 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 20h 22m 17s, session: 0s) on tatooine at 6177 3600 - playerLoggedIn
+Mon Mar  3 22:13:48 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 20h 23m 20s, session: 1m 3s) on tatooine at 6180 3593 - playerLoggedOut
+Mon Mar  3 22:16:30 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 7h 49m 49s, session: 0s) on tatooine at 6396 3532 - playerLoggedOut
+Mon Mar  3 22:16:30 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 7h 50m 16s, session: 0s) on tatooine at 6182 3592 - playerLoggedOut
+Mon Mar  3 22:18:10 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 38m 4s, session: 0s) on yavin4 at 5015 313 - playerLoggedIn
+Mon Mar  3 22:18:16 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 16m 44s, session: 0s) on naboo at 4866 6064 - playerLoggedIn
+Mon Mar  3 22:20:28 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 15h 52m 12s, session: 0s) on yavin4 at 5014 310 - playerLoggedIn
+Mon Mar  3 22:23:27 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 43m 21s, session: 5m 16s) on yavin4 at 5015 312 - playerLoggedOut
+Mon Mar  3 22:23:30 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 43m 22s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Mon Mar  3 22:23:36 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 22m 2s, session: 5m 18s) on naboo at 4895 6094 - playerLoggedOut
+Mon Mar  3 22:29:00 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 7h 50m 17s, session: 0s) on tatooine at 6182 3592 - playerLoggedIn
+Mon Mar  3 22:31:46 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 51m 38s, session: 8m 15s) on yavin4 at 5015 312 - playerLoggedOut
+Mon Mar  3 22:31:49 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 0h 51m 39s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Mon Mar  3 22:51:30 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 7h 49m 50s, session: 0s) on tatooine at 6396 3532 - playerLoggedIn
+Mon Mar  3 23:31:51 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 17h 3m 34s, session: 1h 11m 22s) on yavin4 at 5014 310 - playerLoggedOut
+Mon Mar  3 23:33:20 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 17h 3m 35s, session: 0s) on yavin4 at 5014 310 - playerLoggedIn
+Mon Mar  3 23:52:30 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 8h 50m 48s, session: 1h 0m 58s) on tatooine at 6185 3585 - playerLoggedOut
+Mon Mar  3 23:52:35 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 20h 23m 21s, session: 0s) on tatooine at 6180 3593 - playerLoggedIn
+Tue Mar  4 00:05:33 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 17h 35m 48s, session: 32m 13s) on yavin4 at 5014 310 - playerLoggedOut
+Tue Mar  4 00:06:35 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 26m 25s, session: 1h 34m 45s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 00:07:31 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 9h 28m 44s, session: 1h 38m 27s) on dantooine at 7209 -4172 - playerLoggedOut
+Tue Mar  4 00:07:31 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 20h 38m 16s, session: 14m 55s) on tatooine at 6178 3599 - playerLoggedOut
+Tue Mar  4 00:17:29 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 26m 25s, session: 0s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 00:17:29 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 17h 35m 48s, session: 0s) on yavin4 at 5014 310 - playerLoggedOut
+Tue Mar  4 00:18:54 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 26m 26s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Tue Mar  4 00:19:50 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 9h 28m 45s, session: 0s) on dantooine at 7209 -4172 - playerLoggedIn
+Tue Mar  4 00:22:03 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 29m 34s, session: 3m 8s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 00:22:05 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 29m 35s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Tue Mar  4 00:30:31 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 38m 1s, session: 8m 25s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 00:30:34 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 38m 2s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Tue Mar  4 00:39:13 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 46m 41s, session: 8m 39s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 00:39:17 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 46m 42s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Tue Mar  4 00:41:57 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 49m 22s, session: 2m 40s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 00:42:01 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 22m 3s, session: 0s) on naboo at 4895 6094 - playerLoggedIn
+Tue Mar  4 00:43:23 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 23m 26s, session: 1m 22s) on naboo at 4864 6061 - playerLoggedOut
+Tue Mar  4 00:43:29 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 49m 23s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Tue Mar  4 00:50:48 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 56m 43s, session: 7m 19s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 00:55:34 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 10h 4m 29s, session: 35m 43s) on tatooine at 6178 3594 - playerLoggedOut
+Tue Mar  4 00:55:37 2025 [ServerEventAutomation] playerEvent Rick (account_id: 62, oid: 281475011206826, played: 1h 59m 34s, session: 0s) on tatooine at 6179 3600 - playerLoggedIn
+Tue Mar  4 01:02:16 2025 [ServerEventAutomation] playerEvent Rick (account_id: 62, oid: 281475011206826, played: 2h 6m 13s, session: 6m 38s) on tatooine at 6182 3598 - playerLoggedOut
+Tue Mar  4 05:52:56 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 2h 56m 44s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Tue Mar  4 06:03:54 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 3h 7m 40s, session: 10m 56s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 06:05:34 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 3h 6m 38s, session: 0s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 06:06:59 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 3h 6m 39s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Tue Mar  4 06:19:32 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 3h 19m 13s, session: 12m 33s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 06:19:39 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 3h 19m 14s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Tue Mar  4 06:49:33 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 3h 49m 8s, session: 29m 53s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 06:56:27 2025 [ServerEventAutomation] playerEvent Cia (account_id: 51, oid: 281475004486545, played: 23h 28m 44s, session: 0s) on tatooine at -2393 1199 - playerLoggedIn
+Tue Mar  4 06:58:13 2025 [ServerEventAutomation] playerEvent Cia (account_id: 51, oid: 281475004486545, played: 23h 29m 26s, session: 0s) on tatooine at -2393 1199 - playerLoggedOut
+Tue Mar  4 06:59:40 2025 [ServerEventAutomation] playerEvent Cia (account_id: 51, oid: 281475004486545, played: 23h 29m 27s, session: 0s) on tatooine at -2393 1199 - playerLoggedIn
+Tue Mar  4 07:02:01 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 3h 49m 9s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Tue Mar  4 07:06:24 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 3h 53m 32s, session: 4m 23s) on yavin4 at 5015 312 - playerLoggedOut
+Tue Mar  4 07:30:42 2025 [ServerEventAutomation] playerEvent Cia (account_id: 51, oid: 281475004486545, played: 23h 39m 13s, session: 0s) on tatooine at -2898 2133 - playerLoggedOut
+Tue Mar  4 07:30:42 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 3h 53m 33s, session: 0s) on yavin4 at 5015 312 - playerLoggedIn
+Tue Mar  4 07:46:12 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 10h 4m 30s, session: 0s) on tatooine at 6178 3594 - playerLoggedIn
+Tue Mar  4 07:51:42 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 4h 14m 32s, session: 20m 59s) on yavin4 at 5092 303 - playerLoggedOut
+Tue Mar  4 07:51:46 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 4h 14m 33s, session: 0s) on yavin4 at 5092 303 - playerLoggedIn
+Tue Mar  4 08:00:58 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 4h 23m 45s, session: 9m 12s) on yavin4 at 5095 301 - playerLoggedOut
+Tue Mar  4 08:01:04 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 4h 23m 46s, session: 0s) on yavin4 at 5095 301 - playerLoggedIn
+Tue Mar  4 08:12:53 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 4h 35m 35s, session: 11m 48s) on yavin4 at 5214 399 - playerLoggedOut
+Tue Mar  4 08:12:55 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 4h 35m 36s, session: 0s) on yavin4 at 5214 399 - playerLoggedIn
+Tue Mar  4 08:13:27 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 23m 27s, session: 0s) on naboo at 4864 6061 - playerLoggedIn
+Tue Mar  4 08:15:16 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 25m 16s, session: 1m 49s) on naboo at 4865 6061 - playerLoggedOut
+Tue Mar  4 08:25:01 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 4h 47m 41s, session: 12m 5s) on yavin4 at 5214 386 - playerLoggedOut
+Tue Mar  4 08:25:04 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 4h 47m 42s, session: 0s) on yavin4 at 5214 386 - playerLoggedIn
+Tue Mar  4 08:32:15 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 4h 54m 54s, session: 7m 11s) on yavin4 at 5131 367 - playerLoggedOut
+Tue Mar  4 08:32:21 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 4h 54m 55s, session: 0s) on yavin4 at 5131 367 - playerLoggedIn
+Tue Mar  4 08:54:36 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 17m 9s, session: 22m 13s) on dathomir at 5242 -4225 - playerLoggedOut
+Tue Mar  4 08:54:38 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 17m 10s, session: 0s) on dathomir at 5242 -4225 - playerLoggedIn
+Tue Mar  4 09:08:22 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 30m 53s, session: 13m 43s) on dathomir at 5245 -4223 - playerLoggedOut
+Tue Mar  4 09:08:26 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 30m 54s, session: 0s) on dathomir at 5245 -4223 - playerLoggedIn
+Tue Mar  4 09:09:30 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 25m 17s, session: 0s) on naboo at 4865 6061 - playerLoggedIn
+Tue Mar  4 09:09:38 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 32m 6s, session: 1m 12s) on dathomir at 5243 -4224 - playerLoggedOut
+Tue Mar  4 09:18:48 2025 [ServerEventAutomation] playerEvent wyatt (account_id: 46, oid: 281475004349354, played: 5h 4m 25s, session: 0s) on naboo at 4979 5457 - playerLoggedIn
+Tue Mar  4 09:20:49 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 36m 36s, session: 11m 19s) on naboo at 4870 6064 - playerLoggedOut
+Tue Mar  4 09:27:00 2025 [ServerEventAutomation] playerEvent wyatt (account_id: 46, oid: 281475004349354, played: 5h 12m 37s, session: 8m 11s) on naboo at 4876 6064 - playerLoggedOut
+Tue Mar  4 09:27:03 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 32m 7s, session: 0s) on dathomir at 5243 -4224 - playerLoggedIn
+Tue Mar  4 09:35:07 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 40m 11s, session: 8m 3s) on dathomir at 5243 -4224 - playerLoggedOut
+Tue Mar  4 09:35:10 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 40m 12s, session: 0s) on dathomir at 5243 -4224 - playerLoggedIn
+Tue Mar  4 09:35:29 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 40m 30s, session: 18s) on dathomir at 5254 -4180 - playerLoggedOut
+Tue Mar  4 09:35:31 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 40m 31s, session: 0s) on dathomir at 5254 -4180 - playerLoggedIn
+Tue Mar  4 09:38:45 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 43m 44s, session: 3m 13s) on dathomir at 5244 -4224 - playerLoggedOut
+Tue Mar  4 09:56:17 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 43m 45s, session: 0s) on dathomir at 5244 -4224 - playerLoggedIn
+Tue Mar  4 10:10:06 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 57m 33s, session: 13m 47s) on dathomir at 5243 -4218 - playerLoggedOut
+Tue Mar  4 10:10:13 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 5h 57m 34s, session: 0s) on dathomir at 5243 -4218 - playerLoggedIn
+Tue Mar  4 10:33:47 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 6h 21m 8s, session: 23m 33s) on yavin4 at 5016 313 - playerLoggedOut
+Tue Mar  4 10:35:02 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 12h 53m 13s, session: 2h 48m 42s) on tatooine at 6180 3591 - playerLoggedOut
+Tue Mar  4 11:13:45 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 12h 49m 23s, session: 0s) on corellia at 6883 -5796 - playerLoggedOut
+Tue Mar  4 11:13:47 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 6h 18m 33s, session: 0s) on yavin4 at 5016 313 - playerLoggedOut
+Tue Mar  4 11:15:17 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 6h 18m 34s, session: 0s) on yavin4 at 5016 313 - playerLoggedIn
+Tue Mar  4 11:37:21 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 12h 49m 23s, session: 0s) on corellia at 6883 -5796 - playerLoggedOut
+Tue Mar  4 11:37:25 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 6h 18m 33s, session: 0s) on yavin4 at 5016 313 - playerLoggedOut
+Tue Mar  4 11:38:49 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 36m 37s, session: 0s) on naboo at 4870 6064 - playerLoggedIn
+Tue Mar  4 11:39:23 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 23h 37m 11s, session: 34s) on naboo at 4870 6064 - playerLoggedOut
+Tue Mar  4 11:39:26 2025 [ServerEventAutomation] playerEvent Diana (account_id: 46, oid: 281475004346318, played: 16h 42m 21s, session: 0s) on naboo at 4962 5506 - playerLoggedIn
+Tue Mar  4 11:39:43 2025 [ServerEventAutomation] playerEvent Rick (account_id: 62, oid: 281475011206826, played: 2h 6m 14s, session: 0s) on tatooine at 6182 3598 - playerLoggedIn
+Tue Mar  4 11:40:09 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 6h 18m 34s, session: 0s) on yavin4 at 5016 313 - playerLoggedIn
+Tue Mar  4 11:43:41 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 12h 49m 23s, session: 0s) on corellia at 6883 -5796 - playerLoggedOut
+Tue Mar  4 11:43:42 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 6h 18m 33s, session: 0s) on yavin4 at 5016 313 - playerLoggedOut
+Tue Mar  4 11:45:15 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 1d 6h 18m 34s, session: 0s) on yavin4 at 5016 313 - playerLoggedIn
+Tue Mar  4 11:45:15 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 17h 35m 49s, session: 0s) on yavin4 at 5014 310 - playerLoggedIn
+Tue Mar  4 15:33:04 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 2, oid: 281474993573732, played: 1s, session: 0s) on tutorial at 406 1408 - playerLoggedIn
+Tue Mar  4 15:34:58 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 2, oid: 281474993573732, played: 1m 54s, session: 1m 53s) on naboo at 5187 6682 - playerLoggedOut
+Tue Mar  4 15:37:21 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993573761, played: 1s, session: 0s) on tutorial at 232 3463 - playerLoggedIn
+Tue Mar  4 15:37:47 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 1s, session: 0s) on tutorial at 1607 4190 - playerLoggedIn
+Tue Mar  4 15:37:56 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 1s, session: 0s) on tutorial at 85 1078 - playerLoggedIn
+Tue Mar  4 15:38:28 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 32s, session: 31s) on tutorial at 82 1081 - playerLoggedOut
+Tue Mar  4 15:38:50 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 1m 4s, session: 1m 3s) on tutorial at 1607 4192 - playerLoggedOut
+Tue Mar  4 15:38:53 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 2, oid: 281474993573732, played: 1m 55s, session: 0s) on naboo at 5187 6682 - playerLoggedIn
+Tue Mar  4 15:39:05 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 2, oid: 281474993573732, played: 2m 6s, session: 11s) on naboo at 5187 6682 - playerLoggedOut
+Tue Mar  4 15:39:16 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 1m 5s, session: 0s) on tutorial at 1607 4192 - playerLoggedIn
+Tue Mar  4 15:39:26 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 1m 15s, session: 10s) on tutorial at 1607 4192 - playerLoggedOut
+Tue Mar  4 15:39:28 2025 [ServerEventAutomation] playerEvent Rifa (account_id: 4, oid: 281474993573846, played: 1s, session: 0s) on tutorial at 1009 867 - playerLoggedIn
+Tue Mar  4 15:39:52 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993573761, played: 2m 31s, session: 2m 30s) on tutorial at 232 3463 - playerLoggedOut
+Tue Mar  4 15:41:28 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993573761, played: 2m 32s, session: 0s) on tutorial at 232 3463 - playerLoggedIn
+Tue Mar  4 15:44:45 2025 [ServerEventAutomation] playerEvent Skorn (account_id: 2, oid: 281474993573885, played: 1s, session: 0s) on tutorial at 2575 2477 - playerLoggedIn
+Tue Mar  4 15:45:17 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 1s, session: 0s) on tutorial at 1572 4585 - playerLoggedIn
+Tue Mar  4 15:47:43 2025 [ServerEventAutomation] playerEvent Skorn (account_id: 2, oid: 281474993573885, played: 2m 57s, session: 2m 56s) on naboo at 5188 6683 - playerLoggedOut
+Tue Mar  4 15:47:56 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 1m 16s, session: 0s) on tutorial at 1607 4192 - playerLoggedIn
+Tue Mar  4 15:48:52 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 2m 12s, session: 56s) on tutorial at 1608 4189 - playerLoggedOut
+Tue Mar  4 15:48:56 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 2m 13s, session: 0s) on tutorial at 1608 4189 - playerLoggedIn
+Tue Mar  4 15:50:31 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 3m 47s, session: 1m 34s) on naboo at 5187 6680 - playerLoggedOut
+Tue Mar  4 15:51:26 2025 [ServerEventAutomation] playerEvent Lina (account_id: 1, oid: 281474993573952, played: 1s, session: 0s) on tutorial at 790 2478 - playerLoggedIn
+Tue Mar  4 15:52:41 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 33s, session: 0s) on tutorial at 82 1081 - playerLoggedIn
+Tue Mar  4 15:53:25 2025 [ServerEventAutomation] playerEvent Yakza (account_id: 2, oid: 281474993573981, played: 1s, session: 0s) on tutorial at 1875 2768 - playerLoggedIn
+Tue Mar  4 15:54:37 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993573761, played: 15m 41s, session: 13m 9s) on naboo at 5197 6684 - playerLoggedOut
+Tue Mar  4 15:54:45 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993573761, played: 15m 42s, session: 0s) on naboo at 5197 6684 - playerLoggedIn
+Tue Mar  4 15:58:54 2025 [ServerEventAutomation] playerEvent Yakza (account_id: 2, oid: 281474993573981, played: 5m 29s, session: 5m 28s) on naboo at 5185 6674 - playerLoggedOut
+Tue Mar  4 15:58:57 2025 [ServerEventAutomation] playerEvent Skorn (account_id: 2, oid: 281474993573885, played: 2m 58s, session: 0s) on naboo at 5188 6683 - playerLoggedIn
+Tue Mar  4 16:01:56 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1s, session: 0s) on tutorial at 2977 3495 - playerLoggedIn
+Tue Mar  4 16:03:40 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 1s, session: 0s) on tutorial at 1670 -99 - playerLoggedIn
+Tue Mar  4 16:05:07 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 19m 49s, session: 19m 48s) on naboo at 5192 6683 - playerLoggedOut
+Tue Mar  4 16:07:37 2025 [ServerEventAutomation] playerEvent Wyatt (account_id: 3, oid: 281474993574111, played: 1s, session: 0s) on tutorial at 2331 4666 - playerLoggedIn
+Tue Mar  4 16:08:06 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 4m 25s, session: 4m 24s) on tatooine at -2834 2171 - playerLoggedOut
+Tue Mar  4 16:08:54 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 5, oid: 281474993574144, played: 1s, session: 0s) on tutorial at 4622 -56 - playerLoggedIn
+Tue Mar  4 16:08:57 2025 [ServerEventAutomation] playerEvent Wyatt (account_id: 3, oid: 281474993574111, played: 1m 21s, session: 1m 20s) on naboo at 5190 6681 - playerLoggedOut
+Tue Mar  4 16:09:10 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 7m 14s, session: 7m 13s) on naboo at 5191 6683 - playerLoggedOut
+Tue Mar  4 16:12:20 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 5, oid: 281474993574144, played: 3m 26s, session: 3m 25s) on tatooine at -2899 2135 - playerLoggedOut
+Tue Mar  4 16:15:00 2025 [ServerEventAutomation] playerEvent Skorn (account_id: 2, oid: 281474993573885, played: 18m 59s, session: 16m 0s) on naboo at 5188 6683 - playerLoggedOut
+Tue Mar  4 16:15:54 2025 [ServerEventAutomation] playerEvent Skorn (account_id: 2, oid: 281474993573885, played: 19m 0s, session: 0s) on naboo at 5188 6683 - playerLoggedIn
+Tue Mar  4 16:16:52 2025 [ServerEventAutomation] playerEvent Rifa (account_id: 4, oid: 281474993573846, played: 37m 22s, session: 37m 21s) on corellia at -57 -4955 - playerLoggedOut
+Tue Mar  4 16:17:11 2025 [ServerEventAutomation] playerEvent Rifa (account_id: 4, oid: 281474993573846, played: 37m 23s, session: 0s) on corellia at -57 -4955 - playerLoggedIn
+Tue Mar  4 16:18:21 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 26m 12s, session: 25m 39s) on tutorial at 86 1079 - playerLoggedOut
+Tue Mar  4 16:18:21 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 26m 13s, session: 0s) on tutorial at 86 1079 - playerLoggedIn
+Tue Mar  4 16:24:03 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 2, oid: 281474993573732, played: 2m 7s, session: 0s) on naboo at 5187 6682 - playerLoggedIn
+Tue Mar  4 16:30:50 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 19m 50s, session: 0s) on naboo at 5192 6683 - playerLoggedIn
+Tue Mar  4 16:32:10 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 40m 2s, session: 13m 49s) on tutorial at 85 1082 - playerLoggedOut
+Tue Mar  4 16:32:11 2025 [ServerEventAutomation] playerEvent Lina (account_id: 1, oid: 281474993573952, played: 40m 44s, session: 40m 43s) on tutorial at 793 2478 - playerLoggedOut
+Tue Mar  4 16:36:50 2025 [ServerEventAutomation] playerEvent Skorn (account_id: 2, oid: 281474993573885, played: 39m 56s, session: 20m 55s) on naboo at 4975 6023 - playerLoggedOut
+Tue Mar  4 16:37:33 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 2, oid: 281474993573732, played: 15m 36s, session: 13m 29s) on naboo at 4952 5990 - playerLoggedOut
+Tue Mar  4 16:37:37 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 4m 26s, session: 0s) on tatooine at -2834 2171 - playerLoggedIn
+Tue Mar  4 16:37:37 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 3m 48s, session: 0s) on naboo at 5187 6680 - playerLoggedIn
+Tue Mar  4 16:37:49 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 7m 15s, session: 0s) on naboo at 5191 6683 - playerLoggedIn
+Tue Mar  4 16:39:36 2025 [ServerEventAutomation] playerEvent Wyatt (account_id: 3, oid: 281474993574111, played: 1m 22s, session: 0s) on naboo at 5190 6681 - playerLoggedIn
+Tue Mar  4 16:44:51 2025 [ServerEventAutomation] playerEvent Wyatt (account_id: 3, oid: 281474993574111, played: 6m 36s, session: 5m 14s) on naboo at 4948 6006 - playerLoggedOut
+Tue Mar  4 16:45:12 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993573761, played: 1h 6m 7s, session: 50m 24s) on naboo at 4956 6006 - playerLoggedOut
+Tue Mar  4 16:58:31 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 27m 57s, session: 20m 41s) on naboo at 4958 5996 - playerLoggedOut
+Tue Mar  4 16:58:39 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 27m 58s, session: 0s) on naboo at 4958 5996 - playerLoggedIn
+Tue Mar  4 17:15:07 2025 [ServerEventAutomation] playerEvent Rifa (account_id: 4, oid: 281474993573846, played: 1h 35m 18s, session: 57m 54s) on tatooine at 6641 4277 - playerLoggedOut
+Tue Mar  4 17:17:22 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 1h 6m 21s, session: 46m 31s) on naboo at 4960 5992 - playerLoggedOut
