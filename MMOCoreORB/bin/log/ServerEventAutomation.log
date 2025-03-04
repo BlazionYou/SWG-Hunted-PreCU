@@ -1176,3 +1176,4 @@ Tue Mar  4 17:15:07 2025 [ServerEventAutomation] playerEvent Rifa (account_id: 4
 Tue Mar  4 17:17:22 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 1h 6m 21s, session: 46m 31s) on naboo at 4960 5992 - playerLoggedOut
 Tue Mar  4 17:18:02 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 44m 11s, session: 40m 23s) on naboo at 4953 5990 - playerLoggedOut
 Tue Mar  4 17:18:17 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 47m 35s, session: 19m 37s) on naboo at 4957 5991 - playerLoggedOut
+Tue Mar  4 17:19:05 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 45m 52s, session: 41m 25s) on tatooine at 39 -5338 - playerLoggedOut
