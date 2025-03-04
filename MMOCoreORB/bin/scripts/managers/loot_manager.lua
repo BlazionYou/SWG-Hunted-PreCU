@@ -43,22 +43,20 @@
 -Chance divisor for attribute bonus modifiers
 levelChance = 100
 
---Determines how often exceptional and legendary items can drop.
-yellowChance = 3 -- 1 in 1,000
-exceptionalChance = 10 --1 in 100,000
-legendaryChance = 25 --1 in 1,000,000
---yellowChance = 50 --1 in 50 for testing
---exceptionalChance = 100 --1 in 100 for testing
---legendaryChance = 1000 --1 in 1000 for testing
+--Chance dividend for attribute bonus modifiers
+baseChance = 100
+yellowChance = 1000
+exceptionalChance = 100000
+legendaryChance = 1000000
 
---Determines how much of an increase in the base stats will be applied to the object.
-yellowModifier = 1.5
-exceptionalModifier = 2.5
-legendaryModifier = 5.0
+--Multiplier values for bonus modifiers
+baseModifier = 1
+yellowModifier = 2
+exceptionalModifier = 8
+legendaryModifier = 9
 
 --The chance for random skill mods to be on looted weapons/wearables
-
-skillModChance = 150 -- 500 -- 1 in 500
+skillModChance = 1000 -- 1 in 1000
 
 -- Dot Distribution chance by DOT type. They must equate to 1.0
 poisonDotChance = 0.50
