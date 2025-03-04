@@ -9,10 +9,10 @@ darkEnclaveID = 3435626
 --acceptanceInterval = 604800000 -- 7 days
 --maintenanceInterval = 604800000 -- 7 days
 
-petitionInterval = 120000 -- 7 days
-votingInterval = 120000 -- 7 days
-acceptanceInterval = 120000 -- 7 days
-maintenanceInterval = 120000 -- 7 days
+petitionInterval = 1200000 -- 7 days
+votingInterval = 1200000 -- 7 days
+acceptanceInterval = 1200000 -- 7 days
+maintenanceInterval = 1200000 -- 7 days
 
 requestDemotionDuration = 604800000 -- 7 days
 voteChallengeDuration = 604800000 -- 7 days
