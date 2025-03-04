@@ -23,13 +23,13 @@ arenaChallengeDuration = 3600000 -- 60 mins
 arenaChallengeCooldown = 90000000 -- 25 hours
 
 -- Costs are in FRS experience
-baseMaintCost = 0
-requestDemotionCost = 0
-voteChallengeCost = 0
+baseMaintCost = 100
+requestDemotionCost = 2000
+voteChallengeCost = 1000
 
 maxPetitioners = 11
 maxChallenges = 20
-missedVotePenalty = 0 -- FRS XP
+missedVotePenalty = 100 -- FRS XP
 
 -- Restrict players from voting for and challenging other characters on their account
 sameAccountEnclaveRestrictions = 0
