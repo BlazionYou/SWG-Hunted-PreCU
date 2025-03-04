@@ -40,7 +40,7 @@
 --this exception also makes it possible to release a modified version
 --which carries forward this exception.
 
--Chance divisor for attribute bonus modifiers
+--Chance divisor for attribute bonus modifiers
 levelChance = 100
 
 --Chance dividend for attribute bonus modifiers
