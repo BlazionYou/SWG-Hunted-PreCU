@@ -23,11 +23,6 @@ public:
 		skillMods.put("slope_move", 99);
 	}
 
-////	//////////              if (isWearingArmor(creature)) {
-////	//////////                      return NOJEDIARMOR;
-////	//////////              }
-
-
 	int doQueueCommand(CreatureObject* creature, const uint64& target, const UnicodeString& arguments) const {
 		int res = creature->hasBuff(buffCRC) ? NOSTACKJEDIBUFF : doJediSelfBuffCommand(creature);
 

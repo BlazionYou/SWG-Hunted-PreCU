@@ -6,8 +6,8 @@ nightsister_vibro_unit = {
 	customObjectName = "",
 	directObjectTemplate = "object/tangible/component/weapon/vibro_unit_nightsister.iff",
 	craftingValues = {
-		{"mindamage",100,200,0},
-		{"maxdamage",300,400,0},
+		{"mindamage",25,50,0},
+		{"maxdamage",30,60,0},
 		{"attackspeed",-0.4,-0.7,2},
 		{"woundchance",10,20,0},
 		{"hitpoints",50,100,0, true},

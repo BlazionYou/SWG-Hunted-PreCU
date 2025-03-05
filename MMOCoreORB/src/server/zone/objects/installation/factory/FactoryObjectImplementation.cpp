@@ -566,7 +566,7 @@ bool FactoryObjectImplementation::startFactory() {
 	timer = 30;
 	info(true) << "Factory Testing Timer Set To: " << timer;
 #else
-	timer = ((int)schematic->getComplexity()) / 2;
+	timer = ((int)schematic->getComplexity()) /2;
 #endif
 
 	if (!populateSchematicBlueprint(schematic))
@@ -574,7 +574,7 @@ bool FactoryObjectImplementation::startFactory() {
 
 	// Add sampletask
 	Reference<CreateFactoryObjectTask*> createFactoryObjectTask = new CreateFactoryObjectTask(_this.getReferenceUnsafeStaticCast());
-	addPendingTask("createFactoryObject", createFactoryObjectTask, timer * 100);
+	addPendingTask("createFactoryObject", createFactoryObjectTask, timer * 1000);
 
 	setActive(true, true);
 
@@ -716,7 +716,7 @@ void FactoryObjectImplementation::createNewObject() {
 		return;
 	}
 
-	if (crateSize > 0) {
+	if (crateSize > 1) {
 		String crateType = schematic->getFactoryCrateType();
 
 		ManagedReference<FactoryCrate*> crate = locateCrateInOutputHopper(prototype);
@@ -759,7 +759,7 @@ void FactoryObjectImplementation::createNewObject() {
 	Reference<Task*> pending = getPendingTask("createFactoryObject");
 
 	if (pending != nullptr)
-		pending->reschedule(timer * 100);
+		pending->reschedule(timer * 1000);
 	else
 		stopFactory("manf_error", "", "", -1);
 }

@@ -12,8 +12,4 @@ public:
 	TotalHealOtherCommand(const String& name, ZoneProcessServer* server) : ForceHealQueueCommand(name, server) {}
 };
 
-//////////////              if (isWearingArmor(creature)) {
-//////////////                      return NOJEDIARMOR;
-//////////////              }
-
 #endif //TOTALHEALOTHERCOMMAND_H_

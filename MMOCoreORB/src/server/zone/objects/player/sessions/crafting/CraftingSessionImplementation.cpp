@@ -1428,11 +1428,11 @@ void CraftingSessionImplementation::startCreationTasks(int timer, bool practice)
 			updateToolCountdownTask = new UpdateToolCountdownTask(crafter, craftingTool, timer);
 			updateToolCountdownTask->schedule(timer2);
 			timer -= 5;
-			timer2 += 50;
+			timer2 += 5000;
 		}
 
 		if (timer < 0) {
-			timer2 += (timer * 10);
+			timer2 += (timer * 1000);
 			timer = 0;
 		}
 

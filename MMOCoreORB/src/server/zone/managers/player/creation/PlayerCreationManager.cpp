@@ -36,8 +36,8 @@ PlayerCreationManager::PlayerCreationManager() : Logger("PlayerCreationManager")
 	professionDefaultsInfo.setNoDuplicateInsertPlan();
 	hairStyleInfo.setNoDuplicateInsertPlan();
 
-	startingCash = 50000;
-	startingBank = 50000;
+	startingCash = 100;
+	startingBank = 1000;
 
 	freeGodMode = false;
 
@@ -361,9 +361,8 @@ bool PlayerCreationManager::createCharacter(ClientCreateCharacterCallback* callb
 	String profession, customization, hairTemplate, hairCustomization;
 	callback->getSkill(profession);
 
-
-	/*if (profession.contains("jedi"))
-		profession = "crafting_artisan";*/
+	if (profession.contains("jedi"))
+		profession = "crafting_artisan";
 
 	callback->getCustomizationString(customization);
 	callback->getHairObject(hairTemplate);
@@ -408,15 +407,6 @@ bool PlayerCreationManager::createCharacter(ClientCreateCharacterCallback* callb
 	}
 
 	ManagedReference<PlayerObject*> ghost = playerCreature->getPlayerObject();
-
-
-    	if (profession.contains("jedi"))
-            if (ghost != nullptr) {
-            	ghost->setJediState(2);
-            	ghost->addHologrindProfession(0);
-            	// Award force_title_jedi_rank_02 skill
-            	SkillManager::instance()->awardSkill("force_title_jedi_rank_02", playerCreature, false, true, true);
-            }
 
 	if (ghost != nullptr) {
 		//Set skillpoints before adding any skills.
@@ -472,7 +462,7 @@ bool PlayerCreationManager::createCharacter(ClientCreateCharacterCallback* callb
 
 							Time timeVal(sec);
 
-							if (timeVal.miliDifference() < 0000000) {
+							if (timeVal.miliDifference() < 3600000) {
 								ErrorMessage* errMsg = new ErrorMessage("Create Error", "You are only permitted to create one character per hour. Repeat attempts prior to 1 hour elapsing will reset the timer.", 0x0);
 								client->sendMessage(errMsg);
 
@@ -489,7 +479,7 @@ bool PlayerCreationManager::createCharacter(ClientCreateCharacterCallback* callb
 					if (lastCreatedCharacter.containsKey(accID)) {
 						Time lastCreatedTime = lastCreatedCharacter.get(accID);
 
-						if (lastCreatedTime.miliDifference() < 0000000) {
+						if (lastCreatedTime.miliDifference() < 3600000) {
 							ErrorMessage* errMsg = new ErrorMessage("Create Error", "You are only permitted to create one character per hour. Repeat attempts prior to 1 hour elapsing will reset the timer.", 0x0);
 							client->sendMessage(errMsg);
 
@@ -561,7 +551,7 @@ bool PlayerCreationManager::createCharacter(ClientCreateCharacterCallback* callb
 	JediManager::instance()->onPlayerCreated(playerCreature);
 
 	// Welcome Mail
-	chatManager->sendMail("SWG-Hunted", "Welcome", "Welcome to SWG-Hunted, This is a fun and exciting server with lots of quality of life improvements.\n    For a list of the changes please visit the discord server. If you have any questions/comments/concerns/suggestions please join the discord, now go have fun.\nThanks,\nbennji", playerCreature->getFirstName());
+	chatManager->sendMail("system", "@newbie_tutorial/newbie_mail:welcome_subject", "@newbie_tutorial/newbie_mail:welcome_body", playerCreature->getFirstName());
 
 	// Schedule Task to send out JTL Recruitment Mail
 	SendJtlRecruitment* jtlMailTask = new SendJtlRecruitment(playerCreature);
@@ -573,12 +563,9 @@ bool PlayerCreationManager::createCharacter(ClientCreateCharacterCallback* callb
 	//Join auction chat room
 	ghost->addChatRoom(chatManager->getAuctionRoom()->getRoomID());
 
-	//Join Galaxychat
-	ghost->addChatRoom(chatManager->getGeneralRoom()->getRoomID());
-
 	ManagedReference<SuiMessageBox*> box = new SuiMessageBox(playerCreature, SuiWindowType::NONE);
-	box->setPromptTitle("Welcome");
-	box->setPromptText("Welcome to SWG-Hunted, hope you have fun!");
+	box->setPromptTitle("PLEASE NOTE");
+	box->setPromptText("You are limited to creating one character per hour. Attempting to create another character or deleting your character before the 1 hour timer expires will reset the timer.");
 
 	ghost->addSuiBox(box);
 	playerCreature->sendMessage(box->generateMessage());

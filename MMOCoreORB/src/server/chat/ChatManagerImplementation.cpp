@@ -312,12 +312,10 @@ void ChatManagerImplementation::initiateRooms() {
 	guildRoom = createRoom("guild", systemRoom);
 	guildRoom->setPrivate();
 
-	//Reference<ChatRoom*> generalRoom = createRoom("Chat", galaxyRoom);
-	generalRoom = createRoom("Galaxy", galaxyRoom);
+	Reference<ChatRoom*> generalRoom = createRoom("Chat", galaxyRoom);
 	generalRoom->setCanEnter(true);
 	generalRoom->setAllowSubrooms(true);
-	//generalRoom->setTitle("public chat for this server, can create rooms here");
-	generalRoom->setTitle("Hunted Galaxy General Chat");
+	generalRoom->setTitle("public chat for this server, can create rooms here");
 
 	auctionRoom = createRoom("Auction", galaxyRoom);
 	auctionRoom->setCanEnter(true);

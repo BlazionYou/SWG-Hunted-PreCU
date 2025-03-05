@@ -58,6 +58,15 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 
 	glowyBadgeIds = {12, 14, 15, 16, 17, 19, 20, 21, 23, 30, 38, 39, 71, 105, 106, 107},
 
+	villageBranchUnlocks = {
+		"force_sensitive_combat_prowess_ranged_accuracy",
+		"force_sensitive_combat_prowess_ranged_speed",
+		"force_sensitive_combat_prowess_melee_accuracy",
+		"force_sensitive_combat_prowess_melee_speed",
+		"force_sensitive_enhanced_reflexes_ranged_defense",
+		"force_sensitive_enhanced_reflexes_melee_defense"
+	},
+
 	itemList = {
 		"Jump to Lightspeed",
 		{
@@ -2999,13 +3008,28 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 			"Unlearn All Skills", "unlearn_all_skills",
 			"Cleanse Character", "cleanse_character",
 			"Enhance Character", "enhance_character",
+			"Jedi",
+			{
+				--"Unlock Jedi Initiate", "unlock_jedi_initiate",
+				"Unlock FRS Light Side", "frs_light_side",
+				"Unlock FRS Dark Side", "frs_dark_side"
+			},
 			"Fill Force Bar", "fill_force_bar",
 			"Drain Force Bar", "drain_force_bar",
 			"Reset Buffs", "reset_buffs",
 			"Learn Languages", "language",
 			"Credits", "credits",
+			"Apply ALL DoTs", "apply_all_dots",
+			"Apply Poison DOT", "apply_poison_dot",
+			"Apply Bleed DOT", "apply_bleed_dot",
+			"Apply Disease DOT", "apply_disease_dot",
+			"Apply Health Disease DOT", "apply_disease_dot_health",
+			"Apply Action Disease DOT", "apply_disease_dot_action",
+			"Apply Mind Disease DOT", "apply_disease_dot_mind",
+			"Apply Fire DOT", "apply_fire_dot",
 			"Clear DOTs", "clear_dots",
 			"Max XP", "max_xp",
+			"Become Glowy", "become_glowy",
 			"Faction Points",
 			{
 				"Imperial", "faction_imperial",
@@ -4352,13 +4376,13 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 				--		"A Blacksun Razor Knuckler", "object/weapon/melee/special/blacksun_razor.iff"
 				}
 			},
-			"Holocrons",
-			   {
-				"Dark Jedi Holocron", "object/tangible/jedi/jedi_holocron_dark.iff",
-				"Light Jedi Holocron", "object/tangible/jedi/jedi_holocron_light.iff",
-				"Dark Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_dark.iff",
-				"Light Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_light.iff"
-			  },
+			--"Holocrons",
+			--{
+			--	"Dark Jedi Holocron", "object/tangible/jedi/jedi_holocron_dark.iff",
+			--	"Light Jedi Holocron", "object/tangible/jedi/jedi_holocron_light.iff",
+			--	"Dark Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_dark.iff",
+			--	"Light Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_light.iff"
+			--}
 			"Village Testing (Temporary)",
 			{
 				"Resources",

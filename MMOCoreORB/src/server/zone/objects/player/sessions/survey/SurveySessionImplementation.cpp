@@ -228,7 +228,6 @@ void SurveySessionImplementation::startSample(const String& resname) {
 	message.setTO(lastResourceSampleName);
 	surveyer->sendSystemMessage(message);
 
-	/* Removing annoying sampling minigame	
 	if (!doGamble && richSampleLocation.getPosition() == Vector3(0, 0, 0) && System::random(50) == 7) {
 
 		if (ghost->hasSuiBoxWindowType(SuiWindowType::SURVEY_TOOL_CONCENTRATED_MINIGAME)) {
@@ -250,13 +249,6 @@ void SurveySessionImplementation::startSample(const String& resname) {
 			resourceManager->sendSample(surveyer, lastResourceSampleName,
 					activeSurveyTool->getSampleAnimation());
 	}
-
-	*/
-
-	if (!lastResourceSampleName.isEmpty()) {
-		resourceManager->sendSample(surveyer, lastResourceSampleName, activeSurveyTool->getSampleAnimation());
-	}
-
 }
 
 void SurveySessionImplementation::surveyCnodeMinigameSui() {

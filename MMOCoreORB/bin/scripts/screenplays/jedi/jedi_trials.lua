@@ -57,11 +57,6 @@ function JediTrials:isOnKnightTrials(pPlayer)
 		return false
 	end
 
-	-- First check if trials are completed
-	if (tonumber(readScreenPlayData(pPlayer, "KnightTrials", "completedTrials")) == 1) then
-		return false
-	end
-
 	return tonumber(readScreenPlayData(pPlayer, "KnightTrials", "startedTrials")) == 1 and tonumber(readScreenPlayData(pPlayer, "KnightTrials", "completedTrials")) ~= 1
 end
 
@@ -72,16 +67,13 @@ function JediTrials:onPlayerLoggedIn(pPlayer)
 
 	if (CreatureObject(pPlayer):hasSkill("force_title_jedi_rank_03") and tonumber(readScreenPlayData(pPlayer, "KnightTrials", "completedTrials")) ~= 1) then
 		writeScreenPlayData(pPlayer, "KnightTrials", "completedTrials", 1)
-		writeScreenPlayData(pPlayer, "KnightTrials", "startedTrials", 0)
 	end
 
 	if (self:isOnPadawanTrials(pPlayer)) then
 		PadawanTrials:onPlayerLoggedIn(pPlayer)
 	end
 
-	if (tonumber(readScreenPlayData(pPlayer, "KnightTrials", "completedTrials")) ~= 1) then
-		KnightTrials:onPlayerLoggedIn(pPlayer)
-	end
+	KnightTrials:onPlayerLoggedIn(pPlayer)
 end
 
 function JediTrials:droppedSkillDuringTrials(pPlayer, pSkill)
@@ -192,11 +184,10 @@ function JediTrials:unlockJediKnight(pPlayer)
 
 	awardSkill(pPlayer, "force_title_jedi_rank_03")
 	writeScreenPlayData(pPlayer, "KnightTrials", "completedTrials", 1)
-	writeScreenPlayData(pPlayer, "KnightTrials", "startedTrials", 0)
 	CreatureObject(pPlayer):playMusicMessage(unlockMusic)
 	playClientEffectLoc(pPlayer, "clienteffect/trap_electric_01.cef", CreatureObject(pPlayer):getZoneName(), CreatureObject(pPlayer):getPositionX(), CreatureObject(pPlayer):getPositionZ(), CreatureObject(pPlayer):getPositionY(), CreatureObject(pPlayer):getParentID())
 
-	PlayerObject(pGhost):addWaypoint(enclaveLoc[3], enclaveName, "", enclaveLoc[1], enclaveLoc[2], WAYPOINTYELLOW, true, true, 0)
+	PlayerObject(pGhost):addWaypoint(enclaveLoc[3], enclaveName, "", enclaveLoc[1], 0, enclaveLoc[2], WAYPOINT_YELLOW, true, true, 0)
 	PlayerObject(pGhost):setJediState(jediState)
 	PlayerObject(pGhost):setFrsCouncil(councilType)
 	PlayerObject(pGhost):setFrsRank(0)
@@ -248,7 +239,7 @@ function JediTrials:createShrineWaypoint(pPlayer, pShrine)
 
 	if (pGhost ~= nil) then
 		local zoneName = SceneObject(pShrine):getZoneName()
-		local waypointID = PlayerObject(pGhost):addWaypoint(zoneName, zoneName:gsub("^%l", string.upper) .. " Force Shrine", "", SceneObject(pShrine):getWorldPositionX(), SceneObject(pShrine):getWorldPositionY(), WAYPOINTYELLOW, true, true, 0)
+		local waypointID = PlayerObject(pGhost):addWaypoint(zoneName, zoneName:gsub("^%l", string.upper) .. " Force Shrine", "", SceneObject(pShrine):getWorldPositionX(), 0, SceneObject(pShrine):getWorldPositionY(), WAYPOINT_YELLOW, true, true, 0)
 		writeData(SceneObject(pPlayer):getObjectID() .. ":jediShrineWaypointID", waypointID)
 	end
 end

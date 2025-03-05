@@ -1413,8 +1413,7 @@ void CreatureObjectImplementation::addSkill(Skill* skill, bool notifyClient) {
 			}
 		}
 
-		// if (shouldSpawnHelper) { 
-		if (shouldSpawnHelper && ConfigManager::instance()->getBool("Core3.EnableHelperDroid", false)) {
+		if (shouldSpawnHelper) {
 			PlayerObject* ghost = getPlayerObject();
 
 			if (ghost != nullptr && ghost->getCharacterAgeInDays() < 1) {

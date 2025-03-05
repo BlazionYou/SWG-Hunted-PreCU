@@ -3,7 +3,7 @@
 krayt_pearls = {
 	description = "",
 	minimumLevel = 0,
-	maximumLevel = -1,
+	maximumLevel = 0,
 	lootItems = {
 		{itemTemplate = "krayt_dragon_pearl", weight = 10000000}
 	}

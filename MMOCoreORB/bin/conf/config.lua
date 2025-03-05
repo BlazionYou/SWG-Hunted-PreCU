@@ -59,9 +59,9 @@ Core3 = {
 	DBPort = 3306,
 	DBName = "swgemu",
 	DBUser = "swgemu",
-	DBPass = "NuttySWG12",
+	DBPass = "123456",
 	DBInstances = 2,
-	DBSecret = "conlaigh!2345", -- Change this! This value should be unique and of reasonable length.
+	DBSecret = "swgemus3cr37!", -- Change this! This value should be unique and of reasonable length.
 
 	------Login Server Config------
 	LoginPort = 44453,
@@ -147,9 +147,8 @@ Core3 = {
 	},
 
 	------TRE config------
-	TrePath = "/root/Downloads/SWG-origins-precu/SWGEmu",
+	TrePath = "/home/swgemu/Desktop/SWGEmu",
 	TreFiles = {
-		"hunted_custom.tre",
 		"default_patch.tre",
 		"patch_sku1_14_00.tre",
 		"patch_14_00.tre",
@@ -244,7 +243,7 @@ Core3 = {
 
 	------Server Config------
 	CharacterBuilderEnabled = "true",
-	AutoReg = 0,
+	AutoReg = 1,
 
 	------TOS Config------
 	TermsOfServiceVersion = 0,
