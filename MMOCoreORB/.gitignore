@@ -4,6 +4,7 @@ config.h.in~
 configure
 bin/coverage.info
 bin/luacov.stats.out
+bin/conf/
 Makefile.in
 aclocal.m4
 bin/conf/rev.txt

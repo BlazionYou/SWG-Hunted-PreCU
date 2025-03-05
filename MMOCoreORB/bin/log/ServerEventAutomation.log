@@ -1,0 +1,80 @@
+Tue Mar  4 21:16:38 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 37m 29s, session: 0s) on dathomir at -4148 5925 - playerLoggedIn
+Tue Mar  4 21:17:42 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 38m 33s, session: 1m 4s) on dathomir at -4148 5925 - playerLoggedOut
+Tue Mar  4 21:18:48 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 37m 11s, session: 0s) on dathomir at -4148 5925 - playerLoggedOut
+Tue Mar  4 21:18:48 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 37m 12s, session: 0s) on dathomir at -4148 5925 - playerLoggedIn
+Tue Mar  4 21:21:04 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 39m 27s, session: 2m 15s) on dathomir at -4148 5925 - playerLoggedOut
+Tue Mar  4 21:24:16 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 37m 11s, session: 0s) on dathomir at -4148 5925 - playerLoggedOut
+Tue Mar  4 21:24:16 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 37m 12s, session: 0s) on dathomir at -4148 5925 - playerLoggedIn
+Tue Mar  4 22:10:09 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 2h 8m 49s, session: 0s) on naboo at 4939 6030 - playerLoggedIn
+Tue Mar  4 22:10:51 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 2h 9m 30s, session: 41s) on naboo at 4945 5993 - playerLoggedOut
+Tue Mar  4 22:11:00 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1h 6m 35s, session: 0s) on naboo at 4955 5994 - playerLoggedIn
+Tue Mar  4 22:13:19 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 45m 52s, session: 0s) on tatooine at 39 -5338 - playerLoggedOut
+Tue Mar  4 22:13:19 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 45m 53s, session: 0s) on tatooine at 39 -5338 - playerLoggedIn
+Tue Mar  4 22:14:36 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 47m 9s, session: 1m 16s) on tatooine at 57 -5346 - playerLoggedOut
+Tue Mar  4 22:14:49 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1h 10m 23s, session: 3m 48s) on naboo at 4913 6032 - playerLoggedOut
+Tue Mar  4 22:17:44 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 37m 11s, session: 0s) on dathomir at -4148 5925 - playerLoggedOut
+Tue Mar  4 22:17:44 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 37m 12s, session: 0s) on dathomir at -4148 5925 - playerLoggedIn
+Tue Mar  4 22:19:01 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1h 10m 23s, session: 0s) on naboo at 4913 6032 - playerLoggedOut
+Tue Mar  4 22:19:01 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1h 10m 24s, session: 0s) on naboo at 4913 6032 - playerLoggedIn
+Tue Mar  4 22:20:26 2025 [ServerEventAutomation] playerEvent Sara (account_id: 5, oid: 281474993874616, played: 1s, session: 0s) on tutorial at 3743 156 - playerLoggedIn
+Tue Mar  4 22:33:16 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 40m 3s, session: 0s) on tutorial at 85 1082 - playerLoggedIn
+Tue Mar  4 22:33:53 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 40m 39s, session: 36s) on tutorial at 85 1082 - playerLoggedOut
+Tue Mar  4 22:33:56 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 40m 40s, session: 0s) on tutorial at 85 1082 - playerLoggedIn
+Tue Mar  4 22:34:07 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 40m 52s, session: 11s) on tutorial at 83 1080 - playerLoggedOut
+Tue Mar  4 22:34:24 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 40m 53s, session: 0s) on tutorial at 83 1080 - playerLoggedIn
+Tue Mar  4 22:35:23 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993573812, played: 41m 52s, session: 59s) on corellia at -137 -4723 - playerLoggedOut
+Tue Mar  4 22:37:58 2025 [ServerEventAutomation] playerEvent Sebava (account_id: 1, oid: 281474993875779, played: 1s, session: 0s) on tutorial at 761 1996 - playerLoggedIn
+Tue Mar  4 22:51:01 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 2h 10m 28s, session: 33m 15s) on dathomir at 1019 4237 - playerLoggedOut
+Tue Mar  4 22:51:10 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 47m 9s, session: 0s) on tatooine at 57 -5346 - playerLoggedOut
+Tue Mar  4 22:51:25 2025 [ServerEventAutomation] playerEvent Sebava (account_id: 1, oid: 281474993875779, played: 13m 27s, session: 13m 26s) on corellia at -139 -4723 - playerLoggedOut
+Tue Mar  4 22:52:02 2025 [ServerEventAutomation] playerEvent Sara (account_id: 5, oid: 281474993874616, played: 31m 36s, session: 31m 35s) on tatooine at 6361 4113 - playerLoggedOut
+Tue Mar  4 22:52:05 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 2h 10m 29s, session: 0s) on dathomir at 1019 4237 - playerLoggedIn
+Tue Mar  4 22:52:06 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 47m 10s, session: 0s) on tatooine at 57 -5346 - playerLoggedIn
+Tue Mar  4 22:52:52 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 47m 55s, session: 45s) on tatooine at 57 -5346 - playerLoggedOut
+Tue Mar  4 22:54:00 2025 [ServerEventAutomation] playerEvent Sara (account_id: 5, oid: 281474993874616, played: 31m 37s, session: 0s) on tatooine at 6361 4113 - playerLoggedIn
+Tue Mar  4 22:54:37 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 2h 13m 1s, session: 2m 32s) on dathomir at 667 4305 - playerLoggedOut
+Tue Mar  4 22:55:01 2025 [ServerEventAutomation] playerEvent Sara (account_id: 5, oid: 281474993874616, played: 32m 37s, session: 1m 0s) on tatooine at 6359 4114 - playerLoggedOut
+Tue Mar  4 22:56:16 2025 [ServerEventAutomation] playerEvent Sara (account_id: 5, oid: 281474993874616, played: 31m 36s, session: 0s) on tatooine at 6361 4113 - playerLoggedOut
+Tue Mar  4 22:56:48 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 2h 11m 15s, session: 0s) on dathomir at 983 4241 - playerLoggedOut
+Tue Mar  4 22:56:48 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 2h 11m 16s, session: 0s) on dathomir at 983 4241 - playerLoggedIn
+Tue Mar  4 22:57:06 2025 [ServerEventAutomation] playerEvent Sebava (account_id: 1, oid: 281474993875779, played: 13m 27s, session: 0s) on corellia at -139 -4723 - playerLoggedOut
+Tue Mar  4 22:57:06 2025 [ServerEventAutomation] playerEvent Sebava (account_id: 1, oid: 281474993875779, played: 13m 28s, session: 0s) on corellia at -139 -4723 - playerLoggedIn
+Tue Mar  4 22:58:18 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993933182, played: 1s, session: 0s) on tutorial at 3546 3185 - playerLoggedIn
+Tue Mar  4 22:58:59 2025 [ServerEventAutomation] playerEvent Sara (account_id: 5, oid: 281474993874616, played: 31m 37s, session: 0s) on tatooine at 6361 4113 - playerLoggedIn
+Tue Mar  4 23:01:39 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 5, oid: 281474993933369, played: 1s, session: 0s) on tutorial at 3122 4134 - playerLoggedIn
+Tue Mar  4 23:04:10 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 47m 55s, session: 0s) on tatooine at 57 -5346 - playerLoggedOut
+Tue Mar  4 23:50:55 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 3h 5m 21s, session: 54m 5s) on dathomir at 573 3039 - playerLoggedOut
+Tue Mar  4 23:51:03 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1h 44m 12s, session: 0s) on naboo at 4915 6033 - playerLoggedOut
+Tue Mar  4 23:51:03 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1h 44m 13s, session: 0s) on naboo at 4915 6033 - playerLoggedIn
+Tue Mar  4 23:58:45 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1h 51m 55s, session: 7m 41s) on naboo at 4951 5994 - playerLoggedOut
+Wed Mar  5 00:00:21 2025 [ServerEventAutomation] playerEvent Sebava (account_id: 1, oid: 281474993875779, played: 1h 16m 40s, session: 1h 3m 11s) on corellia at -156 -4722 - playerLoggedOut
+Wed Mar  5 00:32:19 2025 [ServerEventAutomation] playerEvent Sara (account_id: 5, oid: 281474993874616, played: 2h 4m 57s, session: 1h 33m 20s) on tatooine at 6357 4115 - playerLoggedOut
+Wed Mar  5 00:32:26 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 5, oid: 281474993933369, played: 1h 30m 47s, session: 1h 30m 46s) on tatooine at 6358 4111 - playerLoggedOut
+Wed Mar  5 01:45:34 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993933182, played: 2h 47m 14s, session: 2h 47m 13s) on tatooine at 6357 4111 - playerLoggedOut
+Wed Mar  5 02:12:15 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 2, oid: 281474993573732, played: 15m 37s, session: 0s) on naboo at 4952 5990 - playerLoggedIn
+Wed Mar  5 02:12:42 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 2, oid: 281474993573732, played: 16m 4s, session: 27s) on naboo at 4952 5990 - playerLoggedOut
+Wed Mar  5 04:19:14 2025 [ServerEventAutomation] playerEvent Sebava (account_id: 1, oid: 281474993875779, played: 1h 16m 41s, session: 0s) on corellia at -156 -4722 - playerLoggedIn
+Wed Mar  5 04:19:29 2025 [ServerEventAutomation] playerEvent Sebava (account_id: 1, oid: 281474993875779, played: 1h 16m 56s, session: 15s) on corellia at -156 -4722 - playerLoggedOut
+Wed Mar  5 04:19:31 2025 [ServerEventAutomation] playerEvent Sebava (account_id: 1, oid: 281474993875779, played: 1h 16m 57s, session: 0s) on corellia at -156 -4722 - playerLoggedIn
+Wed Mar  5 05:08:48 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993875779, played: 2h 6m 13s, session: 49m 16s) on corellia at -141 -4722 - playerLoggedOut
+Wed Mar  5 05:08:52 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993875779, played: 2h 6m 14s, session: 0s) on corellia at -141 -4722 - playerLoggedIn
+Wed Mar  5 06:18:16 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993875779, played: 3h 15m 36s, session: 1h 9m 22s) on corellia at -141 -4720 - playerLoggedOut
+Wed Mar  5 06:48:01 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993875779, played: 3h 15m 37s, session: 0s) on corellia at -141 -4720 - playerLoggedIn
+Wed Mar  5 07:13:38 2025 [ServerEventAutomation] playerEvent Rifa (account_id: 4, oid: 281474993573846, played: 2h 36m 26s, session: 0s) on tatooine at -4491 -4514 - playerLoggedIn
+Wed Mar  5 07:13:43 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 2, oid: 281474993996664, played: 1s, session: 0s) on tutorial at 1998 -157 - playerLoggedIn
+Wed Mar  5 07:16:01 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 2, oid: 281474993996664, played: 2m 18s, session: 2m 17s) on naboo at 5125 6622 - playerLoggedOut
+Wed Mar  5 07:23:16 2025 [ServerEventAutomation] playerEvent Rifa (account_id: 4, oid: 281474993573846, played: 2h 46m 4s, session: 9m 38s) on tatooine at -4476 -4545 - playerLoggedOut
+Wed Mar  5 07:23:19 2025 [ServerEventAutomation] playerEvent Kathandris (account_id: 6, oid: 281474993996763, played: 1s, session: 0s) on tutorial at 2539 3783 - playerLoggedIn
+Wed Mar  5 07:23:54 2025 [ServerEventAutomation] playerEvent Rhaso (account_id: 4, oid: 281474993996792, played: 1s, session: 0s) on tutorial at 2623 3916 - playerLoggedIn
+Wed Mar  5 07:25:54 2025 [ServerEventAutomation] playerEvent Kathandris (account_id: 6, oid: 281474993996763, played: 2m 35s, session: 2m 34s) on tutorial at 2539 3783 - playerLoggedOut
+Wed Mar  5 07:35:25 2025 [ServerEventAutomation] playerEvent Rhaso (account_id: 4, oid: 281474993996792, played: 11m 31s, session: 11m 30s) on tatooine at 5505 310 - playerLoggedOut
+Wed Mar  5 07:35:41 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993875779, played: 4h 3m 15s, session: 47m 37s) on corellia at -141 -4720 - playerLoggedOut
+Wed Mar  5 07:43:35 2025 [ServerEventAutomation] playerEvent Rhaso (account_id: 4, oid: 281474993996792, played: 11m 31s, session: 0s) on tatooine at 5505 310 - playerLoggedOut
+Wed Mar  5 07:43:35 2025 [ServerEventAutomation] playerEvent Rhaso (account_id: 4, oid: 281474993996792, played: 11m 32s, session: 0s) on tatooine at 5505 310 - playerLoggedIn
+Wed Mar  5 07:46:36 2025 [ServerEventAutomation] playerEvent Kathandriss (account_id: 6, oid: 281474994055334, played: 1s, session: 0s) on tutorial at 2555 165 - playerLoggedIn
+Wed Mar  5 07:50:46 2025 [ServerEventAutomation] playerEvent Row'ena (account_id: 6, oid: 281474994055461, played: 1s, session: 0s) on tutorial at 2098 513 - playerLoggedIn
+Wed Mar  5 07:56:33 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993933182, played: 2h 47m 15s, session: 0s) on tatooine at 6357 4111 - playerLoggedIn
+Wed Mar  5 07:59:30 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1h 51m 56s, session: 0s) on naboo at 4951 5994 - playerLoggedIn
+Wed Mar  5 07:59:37 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281474993875779, played: 4h 3m 16s, session: 0s) on corellia at -141 -4720 - playerLoggedIn
+Wed Mar  5 08:05:34 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1h 57m 58s, session: 6m 2s) on naboo at 4954 5994 - playerLoggedOut
+Wed Mar  5 08:05:37 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 2h 9m 31s, session: 0s) on naboo at 4945 5993 - playerLoggedIn
