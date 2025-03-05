@@ -1177,3 +1177,31 @@ Tue Mar  4 17:17:22 2025 [ServerEventAutomation] playerEvent Diana (account_id: 
 Tue Mar  4 17:18:02 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 44m 11s, session: 40m 23s) on naboo at 4953 5990 - playerLoggedOut
 Tue Mar  4 17:18:17 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 47m 35s, session: 19m 37s) on naboo at 4957 5991 - playerLoggedOut
 Tue Mar  4 17:19:05 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 5, oid: 281474993574075, played: 45m 52s, session: 41m 25s) on tatooine at 39 -5338 - playerLoggedOut
+Tue Mar  4 17:29:58 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 2, oid: 281474993573790, played: 44m 11s, session: 0s) on naboo at 4953 5990 - playerLoggedOut
+Tue Mar  4 17:29:58 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 1h 6m 21s, session: 0s) on naboo at 4960 5992 - playerLoggedOut
+Tue Mar  4 17:29:58 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 47m 35s, session: 0s) on naboo at 4957 5991 - playerLoggedOut
+Tue Mar  4 17:30:37 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 47m 36s, session: 0s) on naboo at 4957 5991 - playerLoggedIn
+Tue Mar  4 17:32:32 2025 [ServerEventAutomation] playerEvent Rifa (account_id: 4, oid: 281474993573846, played: 1h 35m 19s, session: 0s) on tatooine at 6641 4277 - playerLoggedIn
+Tue Mar  4 17:49:36 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 3, oid: 281474993574050, played: 1h 6m 34s, session: 18m 57s) on naboo at 4955 5994 - playerLoggedOut
+Tue Mar  4 17:49:39 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 1h 6m 22s, session: 0s) on naboo at 4960 5992 - playerLoggedIn
+Tue Mar  4 18:33:40 2025 [ServerEventAutomation] playerEvent Rifa (account_id: 4, oid: 281474993573846, played: 2h 36m 25s, session: 1h 1m 6s) on tatooine at -4491 -4514 - playerLoggedOut
+Tue Mar  4 18:38:59 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 1h 55m 42s, session: 49m 19s) on naboo at 5181 6675 - playerLoggedOut
+Tue Mar  4 18:39:04 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 1h 55m 43s, session: 0s) on naboo at 5181 6675 - playerLoggedIn
+Tue Mar  4 18:40:57 2025 [ServerEventAutomation] playerEvent Ethan (account_id: 3, oid: 281474993644193, played: 1s, session: 0s) on tutorial at 4220 3463 - playerLoggedIn
+Tue Mar  4 18:44:10 2025 [ServerEventAutomation] playerEvent Ethan (account_id: 3, oid: 281474993644193, played: 3m 13s, session: 3m 12s) on naboo at 5209 6677 - playerLoggedOut
+Tue Mar  4 18:45:39 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993573761, played: 1h 6m 8s, session: 0s) on naboo at 4956 6006 - playerLoggedIn
+Tue Mar  4 18:46:07 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 2h 2m 45s, session: 7m 2s) on naboo at 4948 6006 - playerLoggedOut
+Tue Mar  4 18:46:14 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993573761, played: 1h 6m 42s, session: 34s) on naboo at 4956 6005 - playerLoggedOut
+Tue Mar  4 19:09:15 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1s, session: 0s) on tutorial at 1709 3231 - playerLoggedIn
+Tue Mar  4 19:12:08 2025 [ServerEventAutomation] playerEvent Wyatt (account_id: 3, oid: 281474993574111, played: 6m 37s, session: 0s) on naboo at 4948 6006 - playerLoggedIn
+Tue Mar  4 19:12:42 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 2h 2m 46s, session: 0s) on naboo at 4948 6006 - playerLoggedIn
+Tue Mar  4 19:14:19 2025 [ServerEventAutomation] playerEvent Wyatt (account_id: 3, oid: 281474993574111, played: 8m 48s, session: 2m 11s) on naboo at 4949 6005 - playerLoggedOut
+Tue Mar  4 19:18:33 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 2h 8m 37s, session: 5m 50s) on naboo at 4939 6030 - playerLoggedOut
+Tue Mar  4 20:12:59 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 3m 43s, session: 1h 3m 42s) on dathomir at -4149 5924 - playerLoggedOut
+Tue Mar  4 20:13:02 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 3m 44s, session: 0s) on dathomir at -4149 5924 - playerLoggedIn
+Tue Mar  4 20:36:39 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 27m 20s, session: 23m 36s) on dathomir at 1646 -5773 - playerLoggedOut
+Tue Mar  4 21:03:19 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 2h 8m 38s, session: 0s) on naboo at 4939 6030 - playerLoggedIn
+Tue Mar  4 21:03:30 2025 [ServerEventAutomation] playerEvent Diana (account_id: 3, oid: 281474993573914, played: 2h 8m 48s, session: 10s) on naboo at 4939 6030 - playerLoggedOut
+Tue Mar  4 21:03:34 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 27m 20s, session: 0s) on dathomir at 1646 -5773 - playerLoggedOut
+Tue Mar  4 21:03:34 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 27m 21s, session: 0s) on dathomir at 1646 -5773 - playerLoggedIn
+Tue Mar  4 21:13:40 2025 [ServerEventAutomation] playerEvent madrox (account_id: 3, oid: 281474993701078, played: 1h 37m 28s, session: 10m 6s) on dathomir at -4148 5925 - playerLoggedOut

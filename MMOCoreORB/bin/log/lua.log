@@ -1,0 +1,4 @@
+Tue Mar  4 20:29:13 2025 [1741141753076 msec] (5023 s) Thread 4 - [DirectorManagerLuaInstance] ERROR - KnightTrials:notifyKilledHuntTarget, invalid trial for player: madrox on trial 0
+stack traceback:
+	[C]: in function 'printLuaError'
+	scripts/screenplays/jedi/knight/knight_trials.lua:218: in function <scripts/screenplays/jedi/knight/knight_trials.lua:210>
