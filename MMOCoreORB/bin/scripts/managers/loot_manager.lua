@@ -44,16 +44,16 @@
 levelChance = 100
 
 --Chance dividend for attribute bonus modifiers
-baseChance = 25
-yellowChance = 50
-exceptionalChance = 75
-legendaryChance = 150
+baseChance = 100
+yellowChance = 200
+exceptionalChance = 300
+legendaryChance = 600
 
 --Multiplier values for bonus modifiers
-baseModifier = 3
-yellowModifier = 5
-exceptionalModifier = 7
-legendaryModifier = 9
+baseModifier = 1
+yellowModifier = 3
+exceptionalModifier = 5
+legendaryModifier = 7
 
 --The chance for random skill mods to be on looted weapons/wearables
 skillModChance = 1000 -- 1 in 1000
