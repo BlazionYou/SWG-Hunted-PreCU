@@ -145,7 +145,7 @@ knightTrialQuests = {
 		trialName = "tusken_raider",
 		trialType = TRIAL_HUNT,
 		huntTarget = "tusken_raider",
-		huntGoal = 19
+		huntGoal = 10
 	},
 	{
 		trialName = "light_or_dark",
@@ -156,7 +156,7 @@ knightTrialQuests = {
 		trialType = TRIAL_HUNT_FACTION,
 		rebelTarget = "storm_commando",
 		imperialTarget = "rebel_commando",
-		huntGoal = 25
+		huntGoal = 10
 	},
 	{
 		trialName = "high_general",
