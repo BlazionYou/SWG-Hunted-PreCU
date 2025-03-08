@@ -747,7 +747,7 @@ trainerSkills = {
 		"force_sensitive_enhanced_reflexes_melee_defense_02",
 		"force_sensitive_enhanced_reflexes_melee_defense_03",
 		"force_sensitive_enhanced_reflexes_melee_defense_04",
-		--[["force_sensitive_enhanced_reflexes_vehicle_control_01",
+		"force_sensitive_enhanced_reflexes_vehicle_control_01",
 		"force_sensitive_enhanced_reflexes_vehicle_control_02",
 		"force_sensitive_enhanced_reflexes_vehicle_control_03",
 		"force_sensitive_enhanced_reflexes_vehicle_control_04",
@@ -790,7 +790,7 @@ trainerSkills = {
 		"force_sensitive_heightened_senses_luck_01",
 		"force_sensitive_heightened_senses_luck_02",
 		"force_sensitive_heightened_senses_luck_03",
-		"force_sensitive_heightened_senses_luck_04"]]
+		"force_sensitive_heightened_senses_luck_04"
 	},
 
 	trainer_jedi = {
