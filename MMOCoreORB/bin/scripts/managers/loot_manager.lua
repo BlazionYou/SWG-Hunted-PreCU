@@ -215,6 +215,8 @@ lootableClothingAttachmentStatMods = {
 	"heavy_rifle_lightning_speed",
 	"intimidate_defense",
 	"jedi_force_power_regen",
+	"jedi_saber_assembly",
+	"jedi_saber_experimentation",
 	"jedi_state_defense",
 	"keep_creature",
 	"knockdown_defense",
