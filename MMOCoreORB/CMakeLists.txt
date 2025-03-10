@@ -212,16 +212,16 @@ endif(IDL_NOPRELOCKS)
 
 # Include googlemock and googletest
 if(COMPILE_TESTS)
-	set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
+	#set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
 
-    add_subdirectory(utils/googletest-release-1.13.0)
+    #add_subdirectory(utils/googletest-release-1.13.0)
 
-    include_directories(${CMAKE_SOURCE_DIR}/utils/googletest-release-1.13.0/googletest/include)
-    include_directories(${CMAKE_SOURCE_DIR}/utils/googletest-release-1.13.0/googlemock/include)
+    #include_directories(${CMAKE_SOURCE_DIR}/utils/googletest-release-1.13.0/googletest/include)
+    #include_directories(${CMAKE_SOURCE_DIR}/utils/googletest-release-1.13.0/googlemock/include)
 
-	enable_testing()
+	#enable_testing()
 
-    add_definitions(-DCOMPILE_CORE3_TESTS)
+    #add_definitions(-DCOMPILE_CORE3_TESTS)
 else(COMPILE_TESTS)
     set(IDL_DIRECTIVES ${IDL_DIRECTIVES} -nomocks)
 endif(COMPILE_TESTS)
