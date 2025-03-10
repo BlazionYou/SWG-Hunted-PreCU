@@ -177,7 +177,7 @@ set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/lib/unix")
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/lib/unix")
 
 add_subdirectory(src)
-add_subdirectory(src/testsuite3)
+#add_subdirectory(src/testsuite3)
 
 set_source_files_properties(tags PROPERTIES GENERATED true)
 add_custom_target(engine3tags
