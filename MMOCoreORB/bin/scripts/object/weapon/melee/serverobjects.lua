@@ -54,3 +54,33 @@ includeFile("weapon/melee/sword/serverobjects.lua")
 includeFile("weapon/melee/unarmed/serverobjects.lua")
 
 -- Server Objects
+
+--POLEARM/CRAFTED_SABER
+includeFile("weapon/melee/sword_lightsaber_polearm_gen4_heroic.lua")
+includeFile("weapon/melee/sword_lightsaber_polearm_gen4_heroic_s02.lua")
+includeFile("weapon/melee/sword_lightsaber_polearm_gen5.lua")
+includeFile("weapon/melee/sword_lightsaber_polearm_pvp_bf.lua")
+includeFile("weapon/melee/sword_lightsaber_polearm_pvp_bf_gen5.lua")
+
+--2H SWORD/CRAFTED_SABER
+includeFile("weapon/melee/sword_lightsaber_two_handed_gcw_s01_gen4.lua")
+includeFile("weapon/melee/sword_lightsaber_two_handed_gcw_s01_gen5.lua")
+includeFile("weapon/melee/sword_lightsaber_two_handed_gen4_must.lua")
+includeFile("weapon/melee/sword_lightsaber_two_handed_gen5_eow.lua")
+includeFile("weapon/melee/sword_lightsaber_two_handed_gen5_sith.lua")
+includeFile("weapon/melee/sword_lightsaber_two_handed_pvp_bf.lua")
+includeFile("weapon/melee/sword_lightsaber_two_handed_pvp_bf_gen5.lua")
+includeFile("weapon/melee/sword_lightsaber_two_handed_gen6_must.lua")
+
+--SWORD/CRAFTED_SABER
+includeFile("weapon/melee/generic_sword_lightsaber_one_handed_gen1.lua")
+includeFile("weapon/melee/generic_sword_lightsaber_training.lua")
+includeFile("weapon/melee/sword_lightsaber_mandalorian.lua")
+includeFile("weapon/melee/sword_lightsaber_one_handed_gcw_s01_gen4.lua")
+includeFile("weapon/melee/sword_lightsaber_one_handed_gcw_s01_gen5.lua")
+includeFile("weapon/melee/sword_lightsaber_one_handed_gen1_s02.lua")
+includeFile("weapon/melee/sword_lightsaber_one_handed_gen4_must.lua")
+includeFile("weapon/melee/sword_lightsaber_one_handed_pvp_bf.lua")
+includeFile("weapon/melee/sword_lightsaber_one_handed_pvp_bf_gen5.lua")
+includeFile("weapon/melee/sword_lightsaber_ranged_donotuse_s01.lua")
+includeFile("weapon/melee/sword_lightsaber_ranged_donotuse_s02.lua")

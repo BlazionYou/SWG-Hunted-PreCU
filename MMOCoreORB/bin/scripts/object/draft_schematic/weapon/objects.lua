@@ -4107,3 +4107,115 @@ object_draft_schematic_weapon_shared_turbo_laser = SharedDraftSchematicObjectTem
 }
 
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_turbo_laser, "object/draft_schematic/weapon/shared_turbo_laser.iff")
+
+------------------------------------------------------------------------------------------------------------------------------------
+object_draft_schematic_weapon_shared_lightsaber_one_handed_gcw_s01_gen4 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_one_handed_gcw_s01_gen4.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_one_handed_gcw_s01_gen4, "object/draft_schematic/weapon/shared_lightsaber_one_handed_gcw_s01_gen4.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_one_handed_gcw_s01_gen5 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_one_handed_gcw_s01_gen5.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_one_handed_gcw_s01_gen5, "object/draft_schematic/weapon/shared_lightsaber_one_handed_gcw_s01_gen5.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_one_handed_gen4_must = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_one_handed_gen4_must.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_one_handed_gen4_must, "object/draft_schematic/weapon/shared_lightsaber_one_handed_gen4_must.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_one_handed_gen4_restuss = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_one_handed_gen4_restuss.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_one_handed_gen4_restuss, "object/draft_schematic/weapon/shared_lightsaber_one_handed_gen4_restuss.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_one_handed_pvp_bf = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_one_handed_pvp_bf.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_one_handed_pvp_bf, "object/draft_schematic/weapon/shared_lightsaber_one_handed_pvp_bf.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_one_handed_pvp_bf_gen5 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_one_handed_pvp_bf_gen5.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_one_handed_pvp_bf_gen5, "object/draft_schematic/weapon/shared_lightsaber_one_handed_pvp_bf_gen5.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_polearm_gen4_heroic = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_polearm_gen4_heroic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_polearm_gen4_heroic, "object/draft_schematic/weapon/shared_lightsaber_polearm_gen4_heroic.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_polearm_pvp_bf = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_polearm_pvp_bf.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_polearm_pvp_bf, "object/draft_schematic/weapon/shared_lightsaber_polearm_pvp_bf.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_polearm_pvp_bf_gen5 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_polearm_pvp_bf_gen5.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_polearm_pvp_bf_gen5, "object/draft_schematic/weapon/shared_lightsaber_polearm_pvp_bf_gen5.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_two_handed_gcw_s01_gen4 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_two_handed_gcw_s01_gen4.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_two_handed_gcw_s01_gen4, "object/draft_schematic/weapon/shared_lightsaber_two_handed_gcw_s01_gen4.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_two_handed_gcw_s01_gen5 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_two_handed_gcw_s01_gen5.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_two_handed_gcw_s01_gen5, "object/draft_schematic/weapon/shared_lightsaber_two_handed_gcw_s01_gen5.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_two_handed_gen4_must = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_two_handed_gen4_must.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_two_handed_gen4_must, "object/draft_schematic/weapon/shared_lightsaber_two_handed_gen4_must.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_two_handed_pvp_bf = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_two_handed_pvp_bf.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_two_handed_pvp_bf, "object/draft_schematic/weapon/shared_lightsaber_two_handed_pvp_bf.iff")
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+object_draft_schematic_weapon_shared_lightsaber_two_handed_pvp_bf_gen5 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lightsaber_two_handed_pvp_bf_gen5.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lightsaber_two_handed_pvp_bf_gen5, "object/draft_schematic/weapon/shared_lightsaber_two_handed_pvp_bf_gen5.iff")
+------------------------------------------------------------------------------------------------------------------------------------

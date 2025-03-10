@@ -40,3 +40,144 @@
 --this exception also makes it possible to release a modified version
 --which carries forward this exception.
 
+
+object_weapon_melee_polearm_crafted_saber_shared_sword_lightsaber_polearm_gen4_heroic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/polearm/crafted_saber/shared_sword_lightsaber_polearm_gen4_heroic.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_crafted_saber_shared_sword_lightsaber_polearm_gen4_heroic, "object/weapon/melee/polearm/crafted_saber/shared_sword_lightsaber_polearm_gen4_heroic.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_polearm_crafted_saber_shared_sword_lightsaber_polearm_gen4_heroic_s02 = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/polearm/crafted_saber/shared_sword_lightsaber_polearm_gen4_heroic_s02.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_crafted_saber_shared_sword_lightsaber_polearm_gen4_heroic_s02, "object/weapon/melee/polearm/crafted_saber/shared_sword_lightsaber_polearm_gen4_heroic_s02.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_polearm_crafted_saber_shared_sword_lightsaber_polearm_pvp_bf = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/polearm/crafted_saber/shared_sword_lightsaber_polearm_pvp_bf.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_crafted_saber_shared_sword_lightsaber_polearm_pvp_bf, "object/weapon/melee/polearm/crafted_saber/shared_sword_lightsaber_polearm_pvp_bf.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_polearm_crafted_saber_shared_sword_lightsaber_polearm_pvp_bf_gen5 = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/polearm/crafted_saber/shared_sword_lightsaber_polearm_pvp_bf_gen5.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_crafted_saber_shared_sword_lightsaber_polearm_pvp_bf_gen5, "object/weapon/melee/polearm/crafted_saber/shared_sword_lightsaber_polearm_pvp_bf_gen5.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gcw_s01_gen4 = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gcw_s01_gen4.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gcw_s01_gen4, "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gcw_s01_gen4.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gcw_s01_gen5 = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gcw_s01_gen5.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gcw_s01_gen5, "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gcw_s01_gen5.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gen4_must = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gen4_must.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gen4_must, "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gen4_must.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gen6_must = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gen6_must.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gen6_must, "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gen6_must.iff")
+--****************************************************************************************************************************************************************************
+
+object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gen5_eow = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gen5_eow.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gen5_eow, "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gen5_eow.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gen5_sith = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gen5_sith.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_gen5_sith, "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_gen5_sith.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_pvp_bf = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_pvp_bf.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_pvp_bf, "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_pvp_bf.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_pvp_bf_gen5 = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_pvp_bf_gen5.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_crafted_saber_shared_sword_lightsaber_two_handed_pvp_bf_gen5, "object/weapon/melee/2h_sword/crafted_saber/shared_sword_lightsaber_two_handed_pvp_bf_gen5.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_sword_shared_sword_lightsaber_adeen = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_lightsaber_adeen.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_lightsaber_adeen, "object/weapon/melee/sword/shared_sword_lightsaber_adeen.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_sword_shared_sword_lightsaber_umakk = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_lightsaber_umakk.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_lightsaber_umakk, "object/weapon/melee/sword/shared_sword_lightsaber_umakk.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_mandalorian = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_mandalorian.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_mandalorian, "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_mandalorian.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_one_handed_gcw_s01_gen4 = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_one_handed_gcw_s01_gen4.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_one_handed_gcw_s01_gen4, "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_one_handed_gcw_s01_gen4.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_one_handed_gcw_s01_gen5 = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_one_handed_gcw_s01_gen5.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_one_handed_gcw_s01_gen5, "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_one_handed_gcw_s01_gen5.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_one_handed_gen4_must = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_one_handed_gen4_must.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_one_handed_gen4_must, "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_one_handed_gen4_must.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_one_handed_pvp_bf = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_one_handed_pvp_bf.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_one_handed_pvp_bf, "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_one_handed_pvp_bf.iff")
+--****************************************************************************************************************************************************************************
+object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_one_handed_pvp_bf_gen5 = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_one_handed_pvp_bf_gen5.iff"
+
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_one_handed_pvp_bf_gen5, "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_one_handed_pvp_bf_gen5.iff")
